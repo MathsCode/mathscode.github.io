@@ -3,11 +3,11 @@
   <title>Hexo</title>
   
   
-  <link href="http://mathscode.github.io/atom.xml" rel="self"/>
+  <link href="https://mathscode.github.io/atom.xml" rel="self"/>
   
-  <link href="http://mathscode.github.io/"/>
+  <link href="https://mathscode.github.io/"/>
   <updated>2021-11-26T14:57:20.296Z</updated>
-  <id>http://mathscode.github.io/</id>
+  <id>https://mathscode.github.io/</id>
   
   <author>
     <name>XDU-������</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Python 学习笔记</title>
-    <link href="http://mathscode.github.io/2021/11/26/python-xue-xi-bi-ji/"/>
-    <id>http://mathscode.github.io/2021/11/26/python-xue-xi-bi-ji/</id>
+    <link href="https://mathscode.github.io/2021/11/26/python-xue-xi-bi-ji/"/>
+    <id>https://mathscode.github.io/2021/11/26/python-xue-xi-bi-ji/</id>
     <published>2021-11-26T14:56:10.000Z</published>
     <updated>2021-11-26T14:57:20.296Z</updated>
     
@@ -35,7 +35,7 @@
     
     
     
-    <category term="Python" scheme="http://mathscode.github.io/tags/Python/"/>
+    <category term="Python" scheme="https://mathscode.github.io/tags/Python/"/>
     
   </entry>
   
