@@ -6,7 +6,7 @@
   <link href="http://mathscode.github.io/atom.xml" rel="self"/>
   
   <link href="http://mathscode.github.io/"/>
-  <updated>2021-11-26T09:00:29.537Z</updated>
+  <updated>2021-11-26T14:57:20.296Z</updated>
   <id>http://mathscode.github.io/</id>
   
   <author>
@@ -17,23 +17,25 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>Hello World</title>
-    <link href="http://mathscode.github.io/2021/11/26/hello-world/"/>
-    <id>http://mathscode.github.io/2021/11/26/hello-world/</id>
-    <published>2021-11-26T09:00:29.537Z</published>
-    <updated>2021-11-26T09:00:29.537Z</updated>
+    <title>Python 学习笔记</title>
+    <link href="http://mathscode.github.io/2021/11/26/python-xue-xi-bi-ji/"/>
+    <id>http://mathscode.github.io/2021/11/26/python-xue-xi-bi-ji/</id>
+    <published>2021-11-26T14:56:10.000Z</published>
+    <updated>2021-11-26T14:57:20.296Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+    <summary type="html">&lt;h1 id=&quot;1-基本知识概念&quot;&gt;&lt;a href=&quot;#1-基本知识概念&quot; class=&quot;headerlink&quot; title=&quot;1. 基本知识概念&quot;&gt;&lt;/a&gt;1. 基本知识概念&lt;/h1&gt;&lt;h2 id=&quot;1-1-循环结构&quot;&gt;&lt;a href=&quot;#1-1-循环结构&quot;</summary>
         
       
     
     
     
+    
+    <category term="Python" scheme="http://mathscode.github.io/tags/Python/"/>
     
   </entry>
   
