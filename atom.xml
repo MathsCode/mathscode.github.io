@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Hexo</title>
+  <title>MathsCode</title>
   
   
   <link href="https://mathscode.github.io/atom.xml" rel="self"/>
   
   <link href="https://mathscode.github.io/"/>
-  <updated>2021-11-26T14:57:20.296Z</updated>
+  <updated>2021-11-26T15:34:09.855Z</updated>
   <id>https://mathscode.github.io/</id>
   
   <author>
-    <name>XDU-������</name>
+    <name>XDU-XJM</name>
     
   </author>
   
@@ -21,7 +21,7 @@
     <link href="https://mathscode.github.io/2021/11/26/python-xue-xi-bi-ji/"/>
     <id>https://mathscode.github.io/2021/11/26/python-xue-xi-bi-ji/</id>
     <published>2021-11-26T14:56:10.000Z</published>
-    <updated>2021-11-26T14:57:20.296Z</updated>
+    <updated>2021-11-26T15:34:09.855Z</updated>
     
     
       
@@ -34,8 +34,31 @@
     
     
     
+    <category term="Python" scheme="https://mathscode.github.io/categories/Python/"/>
+    
     
     <category term="Python" scheme="https://mathscode.github.io/tags/Python/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://mathscode.github.io/2021/11/26/hello-world/"/>
+    <id>https://mathscode.github.io/2021/11/26/hello-world/</id>
+    <published>2021-11-26T09:00:29.537Z</published>
+    <updated>2021-11-26T09:00:29.537Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt;</summary>
+        
+      
+    
+    
+    
     
   </entry>
   
