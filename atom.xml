@@ -6,7 +6,7 @@
   <link href="https://mathscode.github.io/atom.xml" rel="self"/>
   
   <link href="https://mathscode.github.io/"/>
-  <updated>2022-01-04T02:39:34.637Z</updated>
+  <updated>2022-01-04T11:06:09.728Z</updated>
   <id>https://mathscode.github.io/</id>
   
   <author>
@@ -17,26 +17,153 @@
   <generator uri="https://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>“西电计科计组课设实验报告”</title>
+    <link href="https://mathscode.github.io/2022/01/04/xi-dian-ji-ke-ji-zu-ke-she-shi-yan-bao-gao/"/>
+    <id>https://mathscode.github.io/2022/01/04/xi-dian-ji-ke-ji-zu-ke-she-shi-yan-bao-gao/</id>
+    <published>2022-01-04T09:39:58.000Z</published>
+    <updated>2022-01-04T11:06:09.728Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
+
+&lt;p&gt;这是西安电子科技大学计算机科学与技术学院计算机组织与体系结构课程设计的实验报告。&lt;/p&gt;
+&lt;h1 class=&quot;bamboo-h warning&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实验报告" scheme="https://mathscode.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    
+    <category term="实验报告" scheme="https://mathscode.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    <category term="计算机组织与体系结构" scheme="https://mathscode.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E7%BB%84%E7%BB%87%E4%B8%8E%E4%BD%93%E7%B3%BB%E7%BB%93%E6%9E%84/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>西电计科数据库上机报告</title>
+    <link href="https://mathscode.github.io/2022/01/04/xi-dian-ji-ke-shu-ju-ku-shang-ji-bao-gao/"/>
+    <id>https://mathscode.github.io/2022/01/04/xi-dian-ji-ke-shu-ju-ku-shang-ji-bao-gao/</id>
+    <published>2022-01-04T09:39:31.000Z</published>
+    <updated>2022-01-04T11:05:53.542Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
+
+&lt;p&gt;这是西安电子科技大学计算机科学与技术学院数据库系统课程中的上机实验报告。&lt;/p&gt;
+&lt;h1 class=&quot;bamboo-h warning&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实验报告" scheme="https://mathscode.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    
+    <category term="实验报告" scheme="https://mathscode.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    <category term="数据库系统" scheme="https://mathscode.github.io/tags/%E6%95%B0%E6%8D%AE%E5%BA%93%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>西电计科操作系统课设报告</title>
+    <link href="https://mathscode.github.io/2022/01/04/xi-dian-ji-ke-cao-zuo-xi-tong-ke-she-bao-gao/"/>
+    <id>https://mathscode.github.io/2022/01/04/xi-dian-ji-ke-cao-zuo-xi-tong-ke-she-bao-gao/</id>
+    <published>2022-01-04T09:39:05.000Z</published>
+    <updated>2022-01-04T11:06:33.502Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
+
+&lt;p&gt;这是西安电子科技大学计算机科学与技术学院微型操作系统课程设计的实验报告。&lt;/p&gt;
+&lt;h1 class=&quot;bamboo-h warning&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实验报告" scheme="https://mathscode.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    
+    <category term="实验报告" scheme="https://mathscode.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    <category term="操作系统" scheme="https://mathscode.github.io/tags/%E6%93%8D%E4%BD%9C%E7%B3%BB%E7%BB%9F/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>西电计科电子课设实验报告</title>
+    <link href="https://mathscode.github.io/2022/01/04/xi-dian-ji-ke-dian-zi-ke-she-shi-yan-bao-gao/"/>
+    <id>https://mathscode.github.io/2022/01/04/xi-dian-ji-ke-dian-zi-ke-she-shi-yan-bao-gao/</id>
+    <published>2022-01-04T09:27:47.000Z</published>
+    <updated>2022-01-04T11:06:19.720Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
+
+&lt;p&gt;这是西安电子科技大学计算机科学与技术学院电子课设的实验报告。&lt;/p&gt;
+&lt;h1 class=&quot;bamboo-h warning&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实验报告" scheme="https://mathscode.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    
+    <category term="实验报告" scheme="https://mathscode.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    <category term="模拟电路" scheme="https://mathscode.github.io/tags/%E6%A8%A1%E6%8B%9F%E7%94%B5%E8%B7%AF/"/>
+    
+    <category term="数字电路" scheme="https://mathscode.github.io/tags/%E6%95%B0%E5%AD%97%E7%94%B5%E8%B7%AF/"/>
+    
+    <category term="电子课设" scheme="https://mathscode.github.io/tags/%E7%94%B5%E5%AD%90%E8%AF%BE%E8%AE%BE/"/>
+    
+  </entry>
+  
+  <entry>
     <title>西电计科微机实验报告</title>
     <link href="https://mathscode.github.io/2022/01/03/xi-dian-ji-ke-wei-ji-shi-yan-bao-gao/"/>
     <id>https://mathscode.github.io/2022/01/03/xi-dian-ji-ke-wei-ji-shi-yan-bao-gao/</id>
     <published>2022-01-03T15:28:11.000Z</published>
-    <updated>2022-01-04T02:39:34.637Z</updated>
+    <updated>2022-01-04T11:05:40.292Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;点击获取pdf文件&quot;&gt;点击获取pdf文件&lt;/h1&gt;&lt;br&gt;
+    <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
 
-&lt;div class=&quot;link-group&quot;&gt;&lt;div class=&quot;tagLink&quot;&gt;&lt;a class=&quot;link-card&quot; no-pjax</summary>
+
+
+&lt;p&gt;这是西安电子科技大学计算机科学与技术学院微型计算机原理及接口技术课程中的实验报告。&lt;/p&gt;
+&lt;h1 class=&quot;bamboo-h warning&quot;</summary>
         
       
     
     
     
-    <category term="微机原理实验报告" scheme="https://mathscode.github.io/categories/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    <category term="实验报告" scheme="https://mathscode.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
     
     
     <category term="微机原理" scheme="https://mathscode.github.io/tags/%E5%BE%AE%E6%9C%BA%E5%8E%9F%E7%90%86/"/>
