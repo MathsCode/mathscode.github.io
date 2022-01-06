@@ -6,7 +6,7 @@
   <link href="https://mathscode.github.io/atom.xml" rel="self"/>
   
   <link href="https://mathscode.github.io/"/>
-  <updated>2022-01-05T16:00:35.853Z</updated>
+  <updated>2022-01-06T03:13:54.401Z</updated>
   <id>https://mathscode.github.io/</id>
   
   <author>
@@ -15,6 +15,36 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>西电计科自主可控嵌入式系统设计实验报告</title>
+    <link href="https://mathscode.github.io/2022/01/06/xi-dian-ji-ke-zi-zhu-ke-kong-qian-ru-shi-xi-tong-she-ji-shi-yan-bao-gao/"/>
+    <id>https://mathscode.github.io/2022/01/06/xi-dian-ji-ke-zi-zhu-ke-kong-qian-ru-shi-xi-tong-she-ji-shi-yan-bao-gao/</id>
+    <published>2022-01-06T03:01:20.000Z</published>
+    <updated>2022-01-06T03:13:54.401Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
+
+&lt;p&gt;这是西安电子科技大学计算机科学与技术学院计算机科学与技术专业嵌入式方向自主可控嵌入式系统设计课程中的上机实验报告。&lt;/p&gt;
+&lt;h1 class=&quot;bamboo-h warning&quot;</summary>
+        
+      
+    
+    
+    
+    <category term="实验报告" scheme="https://mathscode.github.io/categories/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+    
+    <category term="ARM嵌入式" scheme="https://mathscode.github.io/tags/ARM%E5%B5%8C%E5%85%A5%E5%BC%8F/"/>
+    
+    <category term="实验报告" scheme="https://mathscode.github.io/tags/%E5%AE%9E%E9%AA%8C%E6%8A%A5%E5%91%8A/"/>
+    
+  </entry>
   
   <entry>
     <title>西安电子科技大学青春楷模：你想成为怎样的人？</title>
