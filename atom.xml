@@ -6,7 +6,7 @@
   <link href="https://mathscode.github.io/atom.xml" rel="self"/>
   
   <link href="https://mathscode.github.io/"/>
-  <updated>2022-01-06T03:13:54.401Z</updated>
+  <updated>2022-03-30T02:11:55.361Z</updated>
   <id>https://mathscode.github.io/</id>
   
   <author>
@@ -15,6 +15,33 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>git常见问题及解决办法</title>
+    <link href="https://mathscode.github.io/2022/03/30/git-chang-jian-wen-ti-ji-jie-jue-ban-fa/"/>
+    <id>https://mathscode.github.io/2022/03/30/git-chang-jian-wen-ti-ji-jie-jue-ban-fa/</id>
+    <published>2022-03-30T02:07:37.000Z</published>
+    <updated>2022-03-30T02:11:55.361Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;h1 id=&quot;github-问题及解决-持续更新&quot;&gt;&lt;a href=&quot;#github-问题及解决-持续更新&quot; class=&quot;headerlink&quot; title=&quot;github 问题及解决(持续更新)&quot;&gt;&lt;/a&gt;github 问题及解决(持续更新)&lt;/h1&gt;&lt;h3</summary>
+        
+      
+    
+    
+    
+    <category term="github" scheme="https://mathscode.github.io/categories/github/"/>
+    
+    
+    <category term="github" scheme="https://mathscode.github.io/tags/github/"/>
+    
+    <category term="Q&amp;A" scheme="https://mathscode.github.io/tags/Q-A/"/>
+    
+  </entry>
   
   <entry>
     <title>西电计科自主可控嵌入式系统设计实验报告</title>

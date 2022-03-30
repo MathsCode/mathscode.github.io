@@ -4,6 +4,33 @@
   
     
     <entry>
+      <title>git常见问题及解决办法</title>
+      <link href="/2022/03/30/git-chang-jian-wen-ti-ji-jie-jue-ban-fa/"/>
+      <url>/2022/03/30/git-chang-jian-wen-ti-ji-jie-jue-ban-fa/</url>
+      
+        <content type="html"><![CDATA[<h1 id="github-问题及解决-持续更新"><a href="#github-问题及解决-持续更新" class="headerlink" title="github 问题及解决(持续更新)"></a>github 问题及解决(持续更新)</h1><h3 id="当使用-Github-Desktop-时，遇到Github-Desktop-Authentication-Failed"><a href="#当使用-Github-Desktop-时，遇到Github-Desktop-Authentication-Failed" class="headerlink" title="当使用 Github Desktop 时，遇到Github Desktop Authentication Failed"></a>当使用 Github Desktop 时，遇到Github Desktop Authentication Failed</h3><ul><li>无法进行fetch，就更不用说pull了</li><li>可以进行本地的commit，但是不可以push</li><li>进行Fetch和Push，会弹出 <strong>Github Desktop Authentication Failed</strong>的界面，需要输入Username和Password，但是多次正确输入Username 和 Password 后还是不断跳出并不起作用，无法进行正确的Fetch 和Push。</li></ul><blockquote><p>解决办法</p><p>此时在 <strong>Github Desktop Authentication Failed</strong>界面的底部会提到因为是host server的原因，所以可以使用PAT(Personal Access Tokens)进行身份证明。只需要在Github中创建一个永久PAT（这个根据个人情况和仓库隐私性而定，可以定一定的时间，对于学生而言，永久PAT是个一劳永逸的事情），接在在 <strong>Github Desktop Authentication Failed</strong>的界面中进行输入Username，Password填刚创建的PAT即可完成。</p><p>PAT（Personal Access Tokens）创建流程</p><ul><li>进入GIthub 网页并登录，点击右上角头像，进入Settings</li><li>进入左边侧边栏最下方的Developer settings</li><li>左边侧边栏最下方有Personal Access Tokens，进入按照要求创建即可，普通用户建议可以把所有的权限都勾选上。</li></ul></blockquote>]]></content>
+      
+      
+      <categories>
+          
+          <category> github </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> github </tag>
+            
+            <tag> Q&amp;A </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>西电计科自主可控嵌入式系统设计实验报告</title>
       <link href="/2022/01/06/xi-dian-ji-ke-zi-zhu-ke-kong-qian-ru-shi-xi-tong-she-ji-shi-yan-bao-gao/"/>
       <url>/2022/01/06/xi-dian-ji-ke-zi-zhu-ke-kong-qian-ru-shi-xi-tong-she-ji-shi-yan-bao-gao/</url>
