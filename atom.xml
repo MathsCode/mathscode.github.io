@@ -6,7 +6,7 @@
   <link href="https://mathscode.github.io/atom.xml" rel="self"/>
   
   <link href="https://mathscode.github.io/"/>
-  <updated>2022-03-30T02:11:55.361Z</updated>
+  <updated>2022-04-19T03:29:34.488Z</updated>
   <id>https://mathscode.github.io/</id>
   
   <author>
@@ -15,6 +15,32 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>DeepLearning.ai:Neural Network &amp; Deep learning</title>
+    <link href="https://mathscode.github.io/2022/04/19/deeplearning.ai-neural-network-deep-learning/"/>
+    <id>https://mathscode.github.io/2022/04/19/deeplearning.ai-neural-network-deep-learning/</id>
+    <published>2022-04-19T02:42:49.000Z</published>
+    <updated>2022-04-19T03:29:34.488Z</updated>
+    
+    
+      
+      
+        
+        
+    <summary type="html">&lt;p&gt;[toc]&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;写在前面&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;在此文档中的矩阵书写中，是按照Matlab的代码书写规则而来，逗号(,)代表两边相邻的元素是同一行的，分号(;)代表两边相邻的元素是分行的。&lt;/li&gt;
+&lt;li&gt;注意上标和下标的区分，上标</summary>
+        
+      
+    
+    
+    
+    
+  </entry>
   
   <entry>
     <title>git常见问题及解决办法</title>
@@ -56,7 +82,6 @@
         
         
     <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
-
 &lt;p&gt;这是西安电子科技大学计算机科学与技术学院计算机科学与技术专业嵌入式方向自主可控嵌入式系统设计课程中的上机实验报告。&lt;/p&gt;
 &lt;h1 class=&quot;bamboo-h warning&quot;</summary>
         
@@ -86,7 +111,6 @@
         
         
     <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
-
 &lt;blockquote&gt;
 &lt;p&gt;</summary>
         
@@ -114,7 +138,6 @@
         
         
     <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
-
 &lt;p&gt;这是西安电子科技大学计算机科学与技术学院计算机组织与体系结构课程设计的实验报告。&lt;/p&gt;
 &lt;h1 class=&quot;bamboo-h warning&quot;</summary>
         
@@ -144,7 +167,6 @@
         
         
     <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
-
 &lt;p&gt;这是西安电子科技大学计算机科学与技术学院数据库系统课程中的上机实验报告。&lt;/p&gt;
 &lt;h1 class=&quot;bamboo-h warning&quot;</summary>
         
@@ -174,7 +196,6 @@
         
         
     <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
-
 &lt;p&gt;这是西安电子科技大学计算机科学与技术学院微型操作系统课程设计的实验报告。&lt;/p&gt;
 &lt;h1 class=&quot;bamboo-h warning&quot;</summary>
         
@@ -204,7 +225,6 @@
         
         
     <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
-
 &lt;p&gt;这是西安电子科技大学计算机科学与技术学院电子课设的实验报告。&lt;/p&gt;
 &lt;h1 class=&quot;bamboo-h warning&quot;</summary>
         
@@ -238,9 +258,6 @@
         
         
     <summary type="html">&lt;h1 class=&quot;bamboo-h &quot; id=&quot;前言&quot;&gt;前言&lt;/h1&gt;&lt;br/&gt;
-
-
-
 &lt;p&gt;这是西安电子科技大学计算机科学与技术学院微型计算机原理及接口技术课程中的实验报告。&lt;/p&gt;
 &lt;h1 class=&quot;bamboo-h warning&quot;</summary>
         

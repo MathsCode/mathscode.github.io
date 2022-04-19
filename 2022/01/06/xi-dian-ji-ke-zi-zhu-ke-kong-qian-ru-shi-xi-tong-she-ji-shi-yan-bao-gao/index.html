@@ -708,32 +708,24 @@
     <article class="post post-detail">
       <div class="post-content">
         <h1 class="bamboo-h " id="前言">前言</h1><br/>
-
 <p>这是西安电子科技大学计算机科学与技术学院计算机科学与技术专业嵌入式方向自主可控嵌入式系统设计课程中的上机实验报告。</p>
 <h1 class="bamboo-h warning" id="注意">注意</h1><br/>
-
 <p>如果浏览器装了IDM下载器插件，则以下pdf无法正常预览，会直接跳出立即下载的标签,需要将插件关闭，才可以正常预览。</p>
 <p>因为pdf插件问题，手机无法预览pdf，请用电脑打开，手机浏览器调成电脑模式也无法正常预览。</p>
 <h1 class="bamboo-h " id="文件预览">文件预览</h1><br/>
-
 <h2 class="bamboo-h-b" id="实验一 基于华为鲲鹏云服务器的ARM开发" style="color:!important">实验一 基于华为鲲鹏云服务器的ARM开发</h2><div></div>
-
 <embed src="/pdf/自主可控1.pdf" type="application/pdf" width=100% height=1000>
 
 <h2 class="bamboo-h-b" id="实验二 键盘控制LED灯——S3C2410基本接口实验" style="color:!important">实验二 键盘控制LED灯——S3C2410基本接口实验</h2><div></div>
-
 <embed src="/pdf/自主可控2.pdf" type="application/pdf" width=100% height=1000>
 
 <h2 class="bamboo-h-b" id="实验三 LCD屏幕显示——人机接口实验" style="color:!important">实验三 LCD屏幕显示——人机接口实验</h2><div></div>
-
 <embed src="/pdf/自主可控3.pdf" type="application/pdf" width=100% height=1000>
 
 <h2 class="bamboo-h-b" id="实验四 多任务信号量运行——系统原理实验" style="color:!important">实验四 多任务信号量运行——系统原理实验</h2><div></div>
-
 <embed src="/pdf/自主可控4.pdf" type="application/pdf" width=100% height=1000>
 
 <h2 class="bamboo-h-b" id="实验五 多任务（LCD、LED、键盘、计算器）" style="color:!important">实验五 多任务（LCD、LED、键盘、计算器）</h2><div></div>
-
 <embed src="/pdf/自主可控5.pdf" type="application/pdf" width=100% height=1000>
 
 
@@ -815,8 +807,7 @@
       <!-- <div class="content">
         前言
 
-
- 很荣幸这一次能够当选青春楷模，非常感谢潘超、章燕玲、宫源、常欢四位老师的支持，也感谢自己2021年的努力与付
+ 很荣幸这一次能够当选青春楷模，非常感谢潘超、章燕玲、宫源、常欢四位老师的支持，也感谢自己2021年的努力与付出
       </div> -->
     </a>
   </div>
@@ -983,7 +974,7 @@
   }
   function openBtnClickFn () {
     let openOrCloseBtn = $('.toc-aside .toc-aside-title .toc-open-close');
-    let open = eval('' || 'true');
+    let open = eval('' || 'false');
     openOrCloseBtn.click(function() {
       if (open) {
         closeToc();
@@ -999,7 +990,7 @@
 
   function initCloseTocWidth(init) {
     if (window.innerWidth >= 992) {
-      let isClose = false;
+      let isClose = true;
       isClose && closeToc(init)
     }
   }

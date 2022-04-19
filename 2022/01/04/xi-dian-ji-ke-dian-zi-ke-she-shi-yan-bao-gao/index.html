@@ -708,14 +708,11 @@
     <article class="post post-detail">
       <div class="post-content">
         <h1 class="bamboo-h " id="前言">前言</h1><br/>
-
 <p>这是西安电子科技大学计算机科学与技术学院电子课设的实验报告。</p>
 <h1 class="bamboo-h warning" id="注意">注意</h1><br/>
-
 <p>如果浏览器装了IDM下载器插件，则以下pdf无法正常预览，会直接跳出立即下载的标签，需要将插件关闭，才可以正常预览。</p>
 <p>因为pdf插件问题，手机无法预览pdf，请用电脑打开，手机浏览器调成电脑模式也无法正常预览。</p>
 <h1 class="bamboo-h " id="文件预览">文件预览</h1><br/>
-
 <embed src="/pdf/电子课设实验报告.pdf" type="application/pdf" width=100% height=1000>
 
 
@@ -783,11 +780,9 @@
       
       <!-- <div class="content">
         前言
-
 这是西安电子科技大学计算机科学与技术学院微型操作系统课程设计的实验报告。
 注意
-
-如果浏览器装了IDM下载器插件
+如果浏览器装了IDM下载器插件，则
       </div> -->
     </a>
   </div>
@@ -807,13 +802,9 @@
       </div>
       <!-- <div class="content">
         前言
-
-
-
 这是西安电子科技大学计算机科学与技术学院微型计算机原理及接口技术课程中的实验报告。
 注意
-
-如果浏览器装了I
+如果浏览器装了IDM下载
       </div> -->
     </a>
   </div>
@@ -980,7 +971,7 @@
   }
   function openBtnClickFn () {
     let openOrCloseBtn = $('.toc-aside .toc-aside-title .toc-open-close');
-    let open = eval('' || 'true');
+    let open = eval('' || 'false');
     openOrCloseBtn.click(function() {
       if (open) {
         closeToc();
@@ -996,7 +987,7 @@
 
   function initCloseTocWidth(init) {
     if (window.innerWidth >= 992) {
-      let isClose = false;
+      let isClose = true;
       isClose && closeToc(init)
     }
   }
