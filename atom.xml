@@ -6,7 +6,7 @@
   <link href="https://mathscode.github.io/atom.xml" rel="self"/>
   
   <link href="https://mathscode.github.io/"/>
-  <updated>2022-04-19T03:29:34.488Z</updated>
+  <updated>2022-04-19T05:58:06.568Z</updated>
   <id>https://mathscode.github.io/</id>
   
   <author>
@@ -21,19 +21,18 @@
     <link href="https://mathscode.github.io/2022/04/19/deeplearning.ai-neural-network-deep-learning/"/>
     <id>https://mathscode.github.io/2022/04/19/deeplearning.ai-neural-network-deep-learning/</id>
     <published>2022-04-19T02:42:49.000Z</published>
-    <updated>2022-04-19T03:29:34.488Z</updated>
+    <updated>2022-04-19T05:58:06.568Z</updated>
     
     
       
       
         
         
-    <summary type="html">&lt;p&gt;[toc]&lt;/p&gt;
-&lt;blockquote&gt;
+    <summary type="html">&lt;blockquote&gt;
 &lt;p&gt;写在前面&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;在此文档中的矩阵书写中，是按照Matlab的代码书写规则而来，逗号(,)代表两边相邻的元素是同一行的，分号(;)代表两边相邻的元素是分行的。&lt;/li&gt;
-&lt;li&gt;注意上标和下标的区分，上标</summary>
+&lt;li&gt;注意上标和下标的区分，上标加圆括号代表的是第几个训练</summary>
         
       
     
