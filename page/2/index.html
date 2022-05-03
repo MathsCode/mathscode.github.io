@@ -651,12 +651,12 @@
   <swiper v-cloak ref="mySwiper" :options="swiperOptions" @slideChangeTransitionEnd="slideChangeTransitionEnd">
     
       <swiper-slide>
-        <div class="item swiper-lazy" data-background="https://i.postimg.cc/0jg72J6m/1.jpg" style="background-size: 300000px; 
+        <div class="item swiper-lazy" data-background="/img/school.jpg" style="background-size: 300000px; 
           background-position: left center;" style="position: relative;">
           <div class="swiper-bgmask" style="position: absolute;top: 0;left: 0;width: 100%;height: 100%;"></div>
             <div class="flag">
               
-              <div class="img-mask swiper-lazy swiper-default-bgImg" data-background="https://i.postimg.cc/0jg72J6m/1.jpg" style="height: 100%; background-size: cover; 
+              <div class="img-mask swiper-lazy swiper-default-bgImg" data-background="/img/school.jpg" style="height: 100%; background-size: cover; 
                 background-position: center center;">
                 <div class="swiper-lazy-preloader swiper-lazy-preloader-white"></div>   
               </div>
@@ -1074,6 +1074,92 @@
   }
 
 
+
+  .swiper-slide {
+    height: 450px; 
+  }
+  .flag {
+    width: 100%;
+  }
+  .flag-text {
+    left: 10%;
+  }
+  .swiper-button-prev {
+    margin-left: 10%;
+  }
+  .swiper-button-next {
+    margin-right: 10%;
+  }
+  .flag-text-btns {
+    justify-content: center;
+  }
+  .flag-text {
+    margin-left: 0;
+    transform: none;
+  }
+  .flag-text .title {
+    font-size: 2.2rem;
+    line-height: 1.5em;
+    max-height: none;
+  }
+  .bottom-one-btn {
+    margin-top: 15px;
+  }
+  .swiper-button-prev {
+    margin-left: 10px;
+    transform: translateX(0);
+    border-radius: 50%;
+    padding: 0;
+    width: 50px;
+    height: 50px;
+  }
+  .swiper-button-next {
+    margin-right: 10px;
+    transform: translateX(0);
+    border-radius: 50%;
+    padding: 0;
+    width: 50px;
+    height: 50px;
+  }
+  .swiper-button-next:after, .swiper-button-prev:after {
+    font-size: 1.2rem;
+  }
+  @media (min-width: 992px) {
+    .flag-text .excerpt {
+      line-height: 30px;
+      height: 120px;
+      -webkit-line-clamp: 4;
+    }
+  }
+  @media (max-width: 992px) {
+    .flag-text .title {
+      font-size: 2.4rem;
+      margin-top: 20px;
+      display: -webkit-box;
+      -webkit-box-orient: vertical;
+      -webkit-line-clamp: 2;
+      overflow: hidden;
+    }
+    .flag-text .excerpt {
+      line-height: 30px;
+      height: 150px;
+    }
+  }
+  @media (max-width: 551px) {
+    .flag-text .excerpt {
+      line-height: 30px;
+      height: 120px;
+    }
+    .flag-text .title {
+      margin-top: 50px;
+    }
+    .swiper-button-prev {
+      margin-left: 0;
+    }
+    .swiper-button-next {
+      margin-right: 0;
+    }
+  }
 
 
 /* 全屏显示 */
@@ -1665,8 +1751,8 @@ break，continue 与 else 语句
         <div class="webinfo-item">
           <div>最后活动时间：</div>
           
-            <div id="last-update" style="display: none;">Sun May 01 2022 15:47:51 GMT+0800 (中国标准时间)</div>
-            <div id="last-update-show">2022-05-01 日</div>
+            <div id="last-update" style="display: none;">Tue May 03 2022 17:33:11 GMT+0800 (中国标准时间)</div>
+            <div id="last-update-show">2022-05-03 日</div>
           
         </div>
         
@@ -1716,7 +1802,7 @@ break，continue 与 else 语句
           try {
             document.getElementById('last-update-show').innerHTML = timeago(new Date(lastUpDate));
           } catch (error) {
-            document.getElementById('last-update-show').innerHTML = '2022-05-01 日';
+            document.getElementById('last-update-show').innerHTML = '2022-05-03 日';
           }
         </script>
         
