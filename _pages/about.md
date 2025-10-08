@@ -59,7 +59,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 **Jiaming Xu**, Jiayi Pan, Yongkang Zhou, Siming Chen, Jinhao Li, Yaoxiu Lian, Junyi Wu, Guohao Dai
 
-ISCA 2025 (CCF-A)
+<span style="color: red;">ISCA 2025 (CCF-A)</span>
 
 [**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) &nbsp; | &nbsp; [**Code**](https://github.com/infinigence/SpecEE) ![](https://img.shields.io/github/stars/infinigence/SpecEE) &nbsp; | &nbsp;  [**机器之心**](https://mp.weixin.qq.com/s/vecJX1J8sFoRK8ZudFfzaA) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC'></span></strong> 
 </div>
@@ -75,7 +75,7 @@ ISCA 2025 (CCF-A)
 
 **Jiaming Xu\***, Shan Huang\*, Jinhao Li, Guyue Huang, Yuan Xie, Yu Wang, Guohao Dai
 
-IEEE TCAD 2025 (CCF-A)
+<span style="color: red;">IEEE TCAD 2025 (CCF-A)</span>
 
 [**Paper**](https://ieeexplore.ieee.org/document/10802949) &nbsp; | &nbsp; [**Project**](https://dgsparse.github.io/) &nbsp; | &nbsp; [**Code**](https://github.com/dgSPARSE) ![](https://img.shields.io/github/stars/dgSPARSE/dgSPARSE-Lib) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
 </div>
@@ -100,6 +100,47 @@ MLSys 2024 (non-CCF)
 
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SpecVLA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpecPrune-VLA: Accelerating VisionLanguage-Action Models via Action-Aware Self-Speculative Pruning](https://arxiv.org/abs/2509.05614)
+
+Hanzhen Wang*, Jiaming Xu*, Jiayi Pan, Yongkang Zhou, Guohao Dai
+
+[**Arxiv**](https://arxiv.org/abs/2509.05614) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:0EnyYjriUFMC'></span></strong> 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SpecDiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation](https://arxiv.org/abs/2509.05614)
+
+Jiayi Pan*, Jiaming Xu*, Yongkang Zhou, Guohao Dai,
+
+[**Arxiv**](https://www.arxiv.org/abs/2509.13848) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:5nxA0vEk-isC'></span></strong> 
+</div>
+</div>
+
+
+
+
+- ``IEEE TC 2025`` <span style="color: red;">(CCF-A)</span>, [FlashDecoding++Next: High Throughput LLM Inference with Latency and Memory Optimization](https://ieeexplore.ieee.org/document/11062854/), Guohao Dai, Ke Hong, Qiuli Mao, Xiuhong Li, Jiaming Xu, Haofeng Huang, Hongtu Xia, Xuefei Ning, ShengenYan, Yun Liang, Yu Wang
+
+- ``ASP-DAC 2026``(CCF-C), SpActNDP: Efficient LLM Inference via Sparse Activation on NDP-GPU Heterogeneous Architecture, Jiaming Xu*, Tongxin Xie*, Yongkang Zhou, Jinhao Li, Yaoxiu Lian, Zhenhua Zhu, Yu Wang, Guohao Dai
+
+- ``ASP-DAC 2026``(CCF-C), BalanceGS: AlgorithmSystem Co-design for Efficient 3D Gaussian Splatting Training on GPU, Junyi Wu*, Jiaming Xu*, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
+
+
+
+
+
+
+
+
+
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
@@ -109,13 +150,13 @@ MLSys 2024 (non-CCF)
 - *2023.06* Graduate Star (1/10), Xidian University.
 - *2022.12* Thanks for the Modern Scientist Scholarship (感恩近现代科学家奖学金) (1/12), Xidian University.
 - *2022.12* Principal’s Scholarship (校长奖学金) (1/5), Xidian University.
-- *2022.12* <span style="color: red;">National Scholarship<\span> (Top 1%), Ministry of Education of The People’s Republic of China.
+- *2022.12* <span style="color: red;">National Scholarship</span> (Top 1%), Ministry of Education of The People’s Republic of China.
 - *2022.10* Top 1.3% of World, IEEEXtreme Programming Competition.
 - *2022.10* Huawei Intelligent Base Scholarship (华为智能基座奖学金) (1/10), Xidian University.
-- *2021.12* <span style="color: red;">National Scholarship<\span> (Top 1%), Ministry of Education of The People’s Republic of China.
+- *2021.12* <span style="color: red;">National Scholarship</span> (Top 1%), Ministry of Education of The People’s Republic of China.
 - *2021.11* Silver Medal, The ICPC International Collegiate Programming Contest of Shaanxi Province.
 - *2021.10* Huawei Intelligent Base Scholarship (华为智能基座奖学金) (1/10), Xidian University.
-- *2020.12* <span style="color: red;">National Scholarship<\span> (Top 1%), Ministry of Education of The People’s Republic of China.
+- *2020.12* <span style="color: red;">National Scholarship</span> (Top 1%), Ministry of Education of The People’s Republic of China.
 - *2020.11* Bronze Medal, The ICPC International Collegiate Programming Contest of Shaanxi Province.
 
 
@@ -124,15 +165,15 @@ MLSys 2024 (non-CCF)
 - *2019.09 - 2023.06*, School of Computer Science and Technology, Xidian University
 
 # 💬 Presentation
-- *2025.08*, \[Invited Talk\] Efficient LLM inference via hardware-software codesign, CCF-HPC 2025 @Ordos, China
-- *2025.06*, \[Oral Presentation\] Accelerating Large Language Model Inference with Speculative Early Exiting, ISCA 2025 @Tokyo, Japan
-- *2024.12*, \[Oral Presentation\] Efficient LLM Inference on GPUs with Operator Optimization and Compilation, Chinasys 2024 @Tianjin, China
-- *2024.11*, \[Oral Presentation\] MARCA: Mamba Accelerator with Reconfigurable Architecture, ICCAD 2024 @New York, USA
-- *2024.11*, \[Oral Presentation\] Fast and Efficient 2-bit LLM Inference on GPU: 2/4/16-bit in a Weight Matrix with Asynchronous Dequantization, ICCAD 2024 @New York, USA
-- *2024.11*, \[Oral Presentation\] Towards Floating Point-Based Attention-Free LLM: Hybrid PIM with Non-Uniform Data Format and Reduced Multiolications, ICCAD 2024 @New York, USA
-- *2024.09*, \[Invited Talk\] Efficient GPU computation in Large Language Models, CCF-HPC 2024 @Wuhan, China
-- *2024.05*, \[Oral Presentation\] FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics, MLSys 2024 @California, USA
-- *2024.03*, \[Invited Talk\] NVIDIA GPU and LLM Exploration, Flat GEMM Optimization, SJTU @Shanghai, USA
+- *2025.08*, **\[Invited Talk\]** Efficient LLM inference via hardware-software codesign, CCF-HPC 2025 @Ordos, China
+- *2025.06*, **\[Oral Presentation\]** Accelerating Large Language Model Inference with Speculative Early Exiting, ISCA 2025 @Tokyo, Japan
+- *2024.12*, **\[Oral Presentation\]** Efficient LLM Inference on GPUs with Operator Optimization and Compilation, Chinasys 2024 @Tianjin, China
+- *2024.11*, **\[Oral Presentation\]** MARCA: Mamba Accelerator with Reconfigurable Architecture, ICCAD 2024 @New York, USA
+- *2024.11*, **\[Oral Presentation\]** Fast and Efficient 2-bit LLM Inference on GPU: 2/4/16-bit in a Weight Matrix with Asynchronous Dequantization, ICCAD 2024 @New York, USA
+- *2024.11*, **\[Oral Presentation\]** Towards Floating Point-Based Attention-Free LLM: Hybrid PIM with Non-Uniform Data Format and Reduced Multiolications, ICCAD 2024 @New York, USA
+- *2024.09*, **\[Invited Talk\]** Efficient GPU computation in Large Language Models, CCF-HPC 2024 @Wuhan, China
+- *2024.05*, **\[Oral Presentation\]** FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics, MLSys 2024 @California, USA
+- *2024.03*, **\[Invited Talk\]** NVIDIA GPU and LLM Exploration, Flat GEMM Optimization, SJTU @Shanghai, USA
 
 # 💻 Service
 - *2025.09 - Now*, Teaching Assistant, Thinking and Methodology in Programming (C++) (UG-CS1501-08) by [Prof. Weiguo Gu](https://me.sjtu.edu.cn/teacher_directory1/guweiguo.html)
