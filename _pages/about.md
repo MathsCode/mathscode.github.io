@@ -1,11 +1,3 @@
-<!--
- * @Author: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @Date: 2025-10-07 15:47:57
- * @LastEditors: error: error: git config user.name & please set dead value or install git && error: git config user.email & please set dead value or install git & please set dead value or install git
- * @LastEditTime: 2025-10-08 17:29:48
- * @FilePath: /mathscode.github.io/_pages/about.md
- * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
--->
 ---
 permalink: /
 title: ""
@@ -60,7 +52,7 @@ Previous
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/isca.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2025</div><img src='images/isca.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf)
