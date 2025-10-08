@@ -31,9 +31,9 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 👥 Team
-Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 9 students, including 4 Ph.D. students, 1 master student, and 4 undergraduates. I am very happpy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardare perspectives, to join us</span>([DAI-Sys小组招生](https://dai.sjtu.edu.cn/join.html)).
+Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 9 students, including 4 Ph.D. students, 1 master student, and 4 undergraduates. I am very happpy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardare perspectives, to join us</span> ([DAI-Sys小组招生](https://dai.sjtu.edu.cn/join.html)).
 
-Now
+**Now**
 - Jiaming Xu (许珈铭): third year Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
 - Yaoxiu Lian (廉瑶秀): fourth year Ph.D student in Shanghai Jiao Tong University
 - Yongkang Zhou (周永康): first year Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
@@ -44,7 +44,7 @@ Now
 - Haotian Fang (方皓天): second year undergraduate in Shanghai Jiao Tong University
 - Qiming Cheng (程淇铭): second year undergraduate in East China Normal University
 
-Previous
+**Previous**
 - Siming Chen (陈思铭, 2024.10~2025.6): fourth year undergraduate in Lanzhou University
 - Junyi Wu (吴俊逸, 2024.1~2025.3): third year undergraduate in Shanghai Jiao Tong University
 
@@ -61,7 +61,7 @@ Previous
 
 ISCA 2025 (CCF-A)
 
-[**Project**](https://github.com/infinigence/SpecEE) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC'></span></strong>
+[**][**Code**](https://github.com/infinigence/SpecEE) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC '></span></strong>
 </div>
 </div>
 
