@@ -89,7 +89,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 [FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf)
 
-Ke Hong\*, Guohao Dai\*, **Jiaming Xu\***, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Yuhan Dong and Yu Wang,
+Ke Hong\*, Guohao Dai\*, **Jiaming Xu\***, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Yuhan Dong and Yu Wang
 
 MLSys 2024 (non-CCF)
 
@@ -105,7 +105,7 @@ MLSys 2024 (non-CCF)
 
 [SpecPrune-VLA: Accelerating VisionLanguage-Action Models via Action-Aware Self-Speculative Pruning](https://arxiv.org/abs/2509.05614)
 
-Hanzhen Wang*, Jiaming Xu*, Jiayi Pan, Yongkang Zhou, Guohao Dai
+Hanzhen Wang\*, **Jiaming Xu\***, Jiayi Pan, Yongkang Zhou, Guohao Dai
 
 [**Arxiv**](https://arxiv.org/abs/2509.05614) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:0EnyYjriUFMC'></span></strong> 
 </div>
@@ -116,9 +116,9 @@ Hanzhen Wang*, Jiaming Xu*, Jiayi Pan, Yongkang Zhou, Guohao Dai
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SpecDiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation](https://arxiv.org/abs/2509.05614)
+[SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation](https://www.arxiv.org/abs/2509.13848)
 
-Jiayi Pan*, Jiaming Xu*, Yongkang Zhou, Guohao Dai,
+Jiayi Pan*, **Jiaming Xu\***, Yongkang Zhou, Guohao Dai
 
 [**Arxiv**](https://www.arxiv.org/abs/2509.13848) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:5nxA0vEk-isC'></span></strong> 
 </div>
@@ -173,7 +173,7 @@ Jiayi Pan*, Jiaming Xu*, Yongkang Zhou, Guohao Dai,
 - *2024.11*, **\[Oral Presentation\]** Towards Floating Point-Based Attention-Free LLM: Hybrid PIM with Non-Uniform Data Format and Reduced Multiolications, ICCAD 2024 @New York, USA
 - *2024.09*, **\[Invited Talk\]** Efficient GPU computation in Large Language Models, CCF-HPC 2024 @Wuhan, China
 - *2024.05*, **\[Oral Presentation\]** FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics, MLSys 2024 @California, USA
-- *2024.03*, **\[Invited Talk\]** NVIDIA GPU and LLM Exploration, Flat GEMM Optimization, SJTU @Shanghai, USA
+- *2024.03*, **\[Invited Talk\]** NVIDIA GPU and LLM Exploration, Flat GEMM Optimization, SJTU @Shanghai, China
 
 # 💻 Service
 - *2025.09 - Now*, Teaching Assistant, Thinking and Methodology in Programming (C++) (UG-CS1501-08) by [Prof. Weiguo Gu](https://me.sjtu.edu.cn/teacher_directory1/guweiguo.html)
