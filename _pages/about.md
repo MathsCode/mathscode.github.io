@@ -25,7 +25,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 # 🔥 News
 - *2025.09*: &nbsp;🎉🎉 We release [SpecDiff](https://www.arxiv.org/abs/2509.13848) and [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) for diffusion and VLA model acceleration.
 - *2025.09*: &nbsp;🎉🎉 Two papers were accepted by ASP-DAC 2026. Look forward to meeting you next January in Hong Kong!
-- *2025.08*: &nbsp;🎤🎤 A invited talk (大模型推理软硬件协同优化) was given in Erdos, China. Thanks for the invitation of CCF-HPC 2025. 
+- *2025.08*: &nbsp;🎤🎤 A invited talk (大模型推理软硬件协同优化) was given in Ordos, China. Thanks for the invitation of CCF-HPC 2025. 
 - *2025.06*: &nbsp;🎤🎤 Oral presentation in ISCA 2025 in Tokyo, Japan.
 - *2025.03*: &nbsp;🎉🎉 A paper were accpeted by ISCA 2025. Look forward to meeting you in June in Tokyo!
 
@@ -65,6 +65,9 @@ ISCA 2025 (CCF-A)
 </div>
 </div>
 
+
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCAD 2025</div><img src='images/TCAD25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -77,6 +80,9 @@ IEEE TCAD 2025 (CCF-A)
 [**Paper**](https://ieeexplore.ieee.org/document/10802949) &nbsp; | &nbsp; [**Project**](https://dgsparse.github.io/) &nbsp; | &nbsp; [**Code**](https://github.com/dgSPARSE) ![](https://img.shields.io/github/stars/dgSPARSE/dgSPARSE-Lib) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
 </div>
 </div>
+
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2024</div><img src='images/MLSys24.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -94,19 +100,46 @@ MLSys 2024 (non-CCF)
 
 
 
+
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06* Outstanding Graduates, Shaanxi.
+- *2023.06* Outstanding Graduates, Xidian University.
+- *2023.06* Graduate Star (1/10), Xidian University.
+- *2022.12* Thanks for the Modern Scientist Scholarship (感恩近现代科学家奖学金) (1/12), Xidian University.
+- *2022.12* Principal’s Scholarship (校长奖学金) (1/5), Xidian University.
+- *2022.12* <span style="color: red;">National Scholarship<\span> (Top 1%), Ministry of Education of The People’s Republic of China.
+- *2022.10* Top 1.3% of World, IEEEXtreme Programming Competition.
+- *2022.10* Huawei Intelligent Base Scholarship (华为智能基座奖学金) (1/10), Xidian University.
+- *2021.12* <span style="color: red;">National Scholarship<\span> (Top 1%), Ministry of Education of The People’s Republic of China.
+- *2021.11* Silver Medal, The ICPC International Collegiate Programming Contest of Shaanxi Province.
+- *2021.10* Huawei Intelligent Base Scholarship (华为智能基座奖学金) (1/10), Xidian University.
+- *2020.12* <span style="color: red;">National Scholarship<\span> (Top 1%), Ministry of Education of The People’s Republic of China.
+- *2020.11* Bronze Medal, The ICPC International Collegiate Programming Contest of Shaanxi Province.
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2023.06 - 2028.06 (expected)*, School of Computer Science, Shanghai Jiao Tong University 
+- *2019.09 - 2023.06*, School of Computer Science and Technology, Xidian University
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
+# 💬 Presentation
+- *2025.08*, \[Invited Talk\] Efficient LLM inference via hardware-software codesign, CCF-HPC 2025 @Ordos, China
+- *2025.06*, \[Oral Presentation\] Accelerating Large Language Model Inference with Speculative Early Exiting, ISCA 2025 @Tokyo, Japan
+- *2024.12*, \[Oral Presentation\] Efficient LLM Inference on GPUs with Operator Optimization and Compilation, Chinasys 2024 @Tianjin, China
+- *2024.11*, \[Oral Presentation\] MARCA: Mamba Accelerator with Reconfigurable Architecture, ICCAD 2024 @New York, USA
+- *2024.11*, \[Oral Presentation\] Fast and Efficient 2-bit LLM Inference on GPU: 2/4/16-bit in a Weight Matrix with Asynchronous Dequantization, ICCAD 2024 @New York, USA
+- *2024.11*, \[Oral Presentation\] Towards Floating Point-Based Attention-Free LLM: Hybrid PIM with Non-Uniform Data Format and Reduced Multiolications, ICCAD 2024 @New York, USA
+- *2024.09*, \[Invited Talk\] Efficient GPU computation in Large Language Models, CCF-HPC 2024 @Wuhan, China
+- *2024.05*, \[Oral Presentation\] FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics, MLSys 2024 @California, USA
+- *2024.03*, \[Invited Talk\] NVIDIA GPU and LLM Exploration, Flat GEMM Optimization, SJTU @Shanghai, USA
 
-# 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+# 💻 Service
+- *2025.09 - Now*, Teaching Assistant, Thinking and Methodology in Programming (C++) (UG-CS1501-08) by [Prof. Weiguo Gu](https://me.sjtu.edu.cn/teacher_directory1/guweiguo.html)
+- *2025.02 - 2025.06*, Teaching Assistant, Algorithms and Complexity (UG-CS2308-01) by [Prof. Qingshen Ren](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=85)
+- *2025.02 - 2025.06*, Teaching Assistant, Algorithm Design and Analysis (PG-CS7310H-033-M01) by [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218)
+- *2024.09 - 2025.01*, Teaching Assistant, Thinking and Methodology in Programming (C++) (UG-CS1501-04) by [Prof. Weiguo Gu](https://me.sjtu.edu.cn/teacher_directory1/guweiguo.html)
+- *2024.05 - Now*, IT Administrator of DAI-Lab, Shanghai Jiao Tong University
+- *2025.02 - 2025.06*, Teaching Assistant, Algorithm Design and Analysis (PG-CS7310H-033-M01) by [Prof. Guohao Dai](https://dai.sjtu.edu.cn/pepledetail.html?id=218)
+- *2022.09 - 2023.06*, Huawei Campus Ambassador, Xidian University
+- *2021.09 - 2022.09*, Chairman of Huawei Innovation Club and Huawei Intelligent Base Club
