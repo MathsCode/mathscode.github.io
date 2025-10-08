@@ -61,7 +61,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 ISCA 2025 (CCF-A)
 
-[**][**Code**](https://github.com/infinigence/SpecEE) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC '></span></strong>
+[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) &nbsp; | &nbsp; [**Code**](https://github.com/infinigence/SpecEE) ![](https://img.shields.io/github/stars/infinigence/SpecEE)  <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC '></span></strong> 
 </div>
 </div>
 
