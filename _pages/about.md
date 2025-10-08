@@ -52,7 +52,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2025</div><img src='images/isca.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2025</div><img src='images/ISCA25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf)
@@ -61,9 +61,38 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 ISCA 2025 (CCF-A)
 
-[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) &nbsp; | &nbsp; [**Code**](https://github.com/infinigence/SpecEE) ![](https://img.shields.io/github/stars/infinigence/SpecEE)  <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC '></span></strong> 
+[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) &nbsp; | &nbsp; [**Code**](https://github.com/infinigence/SpecEE) ![](https://img.shields.io/github/stars/infinigence/SpecEE) [**机器之心**](https://mp.weixin.qq.com/s/vecJX1J8sFoRK8ZudFfzaA) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC'></span></strong> 
 </div>
 </div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCAD 2025</div><img src='images/TCAD25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enabling Efficient Sparse Multiplications on GPUs with Heuristic Adaptability](https://ieeexplore.ieee.org/document/10802949)
+
+**Jiaming Xu\***, Shan Huang\*, Jinhao Li, Guyue Huang, Yuan Xie, Yu Wang, Guohao Dai
+
+IEEE TCAD 2025 (CCF-A)
+
+[**Paper**](https://ieeexplore.ieee.org/document/10802949) &nbsp; | &nbsp; [**Project**](https://dgsparse.github.io/) &nbsp; | &nbsp; [**Code**](https://github.com/dgSPARSE) ![](https://img.shields.io/github/stars/dgSPARSE/dgSPARSE-Lib) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCAD 2025</div><img src='images/MLSys24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf)
+
+Ke Hong\*, Guohao Dai\*, **Jiaming Xu\***, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Yuhan Dong and Yu Wang,
+
+MLSys 2024 (non-CCF)
+
+[**Paper**](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf) &nbsp; | &nbsp; [**Arxiv**](https://arxiv.org/abs/2311.01282) &nbsp; | &nbsp; [**机器之心**](https://mp.weixin.qq.com/s/e9OHATqk88Q9zM3Y5czFQA)  <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:qjMakFHDy7sC'></span></strong> 
+</div>
+</div>
+
+
+
 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
