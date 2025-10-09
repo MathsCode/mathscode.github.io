@@ -150,7 +150,7 @@ ASP-DAC 2026 (CCF-C)
 
 ASP-DAC 2025 (CCF-C)
 
-[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/8543405a-e6d3-48de-89b9-f1a89e0a4ae9.pdf) 
+[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/8543405a-e6d3-48de-89b9-f1a89e0a4ae9.pdf) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:YsMSGLbcyi4C'></span></strong> 
 </div>
 </div>
 
@@ -165,7 +165,7 @@ Jinhao Li\*, **Jiaming Xu\***, Shiyao Li, Shan Huang, Jun Liu, Yaoxiu Lian and G
 
 ICCAD 2024 (CCF-B)
 
-[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/f1c6a4bb-4556-43e2-8e46-4ab38d8bfed4.pdf) 
+[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/f1c6a4bb-4556-43e2-8e46-4ab38d8bfed4.pdf) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:eQOLeE2rZwMC'></span></strong> 
 </div>
 </div>
 
@@ -178,7 +178,7 @@ ICCAD 2024 (CCF-B)
 
 Jinhao Li, **Jiaming Xu**, Shan Huang, Yonghua Chen, Wen Li, Jun Liu, Yaoxiu Lian, Jiayi Pan, Li Ding, Hao Zhou, Yu Wang, Guohao Dai
 
-[**Arxiv**](https://arxiv.org/abs/2410.04466) <strong>|</strong> [**Code**](https://github.com/Kimho666/LLM_Hardware_Survey) <strong>|</strong> [**推广**](https://mp.weixin.qq.com/s/_rvKIZB1IzsX7Z6oe1a2rw) <span class='show_paper_citations' data='ovQFaicAAAAJ:UeHWp8X0CEIC'></span>
+[**Arxiv**](https://arxiv.org/abs/2410.04466) <strong>|</strong> [**Code**](https://github.com/Kimho666/LLM_Hardware_Survey) <strong>|</strong> [**推广**](https://mp.weixin.qq.com/s/_rvKIZB1IzsX7Z6oe1a2rw) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:UeHWp8X0CEIC'></span></strong> 
 </div>
 </div>
 
