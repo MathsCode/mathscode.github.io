@@ -61,7 +61,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 <span style="color: red;">ISCA 2025 (CCF-A)</span>
 
-[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) &nbsp; | &nbsp; [**Code**](https://github.com/infinigence/SpecEE) ![](https://img.shields.io/github/stars/infinigence/SpecEE) &nbsp; | &nbsp;  [**机器之心**](https://mp.weixin.qq.com/s/vecJX1J8sFoRK8ZudFfzaA) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC'></span></strong> 
+[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) <strong>|</strong> [**Code**](https://github.com/infinigence/SpecEE) ![](https://img.shields.io/github/stars/infinigence/SpecEE) <strong>|</strong>  [**机器之心**](https://mp.weixin.qq.com/s/vecJX1J8sFoRK8ZudFfzaA) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC'></span></strong> 
 </div>
 </div>
 
@@ -77,7 +77,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 <span style="color: red;">IEEE TCAD 2025 (CCF-A)</span>
 
-[**Paper**](https://ieeexplore.ieee.org/document/10802949) &nbsp; | &nbsp; [**Project**](https://dgsparse.github.io/) &nbsp; | &nbsp; [**Code**](https://github.com/dgSPARSE) ![](https://img.shields.io/github/stars/dgSPARSE/dgSPARSE-Lib) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
+[**Paper**](https://ieeexplore.ieee.org/document/10802949) <strong>|</strong> [**Project**](https://dgsparse.github.io/) <strong>|</strong> [**Code**](https://github.com/dgSPARSE) ![](https://img.shields.io/github/stars/dgSPARSE/dgSPARSE-Lib) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
 </div>
 </div>
 
@@ -93,7 +93,7 @@ Ke Hong\*, Guohao Dai\*, **Jiaming Xu\***, Qiuli Mao, Xiuhong Li, Jun Liu, Kangd
 
 MLSys 2024 (non-CCF)
 
-[**Paper**](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf) <strong><span>[Arxiv](https://arxiv.org/abs/2311.01282)</span></strong>  <strong><span>[机器之心](https://mp.weixin.qq.com/s/e9OHATqk88Q9zM3Y5czFQA)</span></strong>  <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:qjMakFHDy7sC'></span></strong> 
+[**Paper**](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf) <strong>|</strong> [**Arxiv**](https://arxiv.org/abs/2311.01282) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/e9OHATqk88Q9zM3Y5czFQA)  <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:qjMakFHDy7sC'></span></strong> 
 </div>
 </div>
 
@@ -178,7 +178,7 @@ ICCAD 2024 (CCF-B)
 
 Jinhao Li, **Jiaming Xu**, Shan Huang, Yonghua Chen, Wen Li, Jun Liu, Yaoxiu Lian, Jiayi Pan, Li Ding, Hao Zhou, Yu Wang, Guohao Dai
 
-[**Arxiv**](https://arxiv.org/abs/2410.04466) &nbsp; | &nbsp; [**Code**](https://github.com/Kimho666/LLM_Hardware_Survey) &nbsp; | &nbsp; [**推广**](https://mp.weixin.qq.com/s/_rvKIZB1IzsX7Z6oe1a2rw) <span class='show_paper_citations' data='ovQFaicAAAAJ:UeHWp8X0CEIC'></span>
+[**Arxiv**](https://arxiv.org/abs/2410.04466) <strong>|</strong> [**Code**](https://github.com/Kimho666/LLM_Hardware_Survey) <strong>|</strong> [**推广**](https://mp.weixin.qq.com/s/_rvKIZB1IzsX7Z6oe1a2rw) <span class='show_paper_citations' data='ovQFaicAAAAJ:UeHWp8X0CEIC'></span>
 </div>
 </div>
 
@@ -191,7 +191,7 @@ Jinhao Li, **Jiaming Xu**, Shan Huang, Yonghua Chen, Wen Li, Jun Liu, Yaoxiu Lia
 
 Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming Lou, Luning Wang, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang
 
-[**Arxiv**](https://arxiv.org/abs/2404.14294) &nbsp; | &nbsp; [**机器之心**](https://mp.weixin.qq.com/s/7LKfamTnCyFih6_grf9m3A) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:2osOgNQ5qMEC'></span></strong> 
+[**Arxiv**](https://arxiv.org/abs/2404.14294) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/7LKfamTnCyFih6_grf9m3A) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:2osOgNQ5qMEC'></span></strong> 
 </div>
 </div>
 
