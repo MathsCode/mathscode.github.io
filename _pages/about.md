@@ -27,11 +27,11 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 - *2025.09*: &nbsp;🎉🎉 Two papers were accepted by ASP-DAC 2026. Look forward to meeting you next January in Hong Kong!
 - *2025.08*: &nbsp;🎤🎤 A invited talk (大模型推理软硬件协同优化) was given in Ordos, China. Thanks for the invitation of CCF-HPC 2025. 
 - *2025.06*: &nbsp;🎤🎤 Oral presentation in ISCA 2025 in Tokyo, Japan.
-- *2025.03*: &nbsp;🎉🎉 A paper were accpeted by ISCA 2025. Look forward to meeting you in June in Tokyo!
+- *2025.03*: &nbsp;🎉🎉 A paper was accpeted by ISCA 2025. Look forward to meeting you in June in Tokyo!
 
 
 # 👥 Team
-Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 9 students, including 4 Ph.D. students, 1 master student, and 4 undergraduates. I am very happpy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardare perspectives, to join us</span> ([DAI-Sys小组招生](https://dai.sjtu.edu.cn/join.html)).
+Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 9 students, including 4 Ph.D. students, 1 master student, and 4 undergraduates. I am very happpy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us</span> ([DAI-Sys小组招生](https://dai.sjtu.edu.cn/join.html)).
 
 **Now**
 - Jiaming Xu (许珈铭): third year Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
