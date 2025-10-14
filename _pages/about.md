@@ -43,6 +43,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 - Hanzhen Wang (王翰楨): third year undergraduate in Shanghai Jiao Tong University
 - Haotian Fang (方皓天): second year undergraduate in Shanghai Jiao Tong University
 - Qiming Cheng (程淇铭): second year undergraduate in East China Normal University
+- Chengze Yuan (袁诚泽): second year undergraduate in Shanghai Jiao Tong University
 
 **Previous**
 - Siming Chen (陈思铭, 2024.10~2025.6): fourth year undergraduate in Lanzhou University
