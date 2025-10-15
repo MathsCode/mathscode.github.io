@@ -23,6 +23,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 Congratulation! I was awarded the National Scholarship (Ph.D Students). This is my fourth National Scholarship.
 - *2025.09*: &nbsp;🎉🎉 We release [SpecDiff](https://www.arxiv.org/abs/2509.13848) and [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) for diffusion and VLA model acceleration.
 - *2025.09*: &nbsp;🎉🎉 Two papers were accepted by ASP-DAC 2026. Look forward to meeting you next January in Hong Kong!
 - *2025.08*: &nbsp;🎤🎤 A invited talk (大模型推理软硬件协同优化) was given in Ordos, China. Thanks for the invitation of CCF-HPC 2025. 
@@ -232,6 +233,7 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.10* <span style="color: red;">National Scholarship</span> (Top 1%), Ministry of Education of The People’s Republic of China.
 - *2023.06* Outstanding Graduates, Shaanxi.
 - *2023.06* Outstanding Graduates, Xidian University.
 - *2023.06* Graduate Star (1/10), Xidian University.
