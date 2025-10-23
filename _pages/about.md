@@ -23,12 +23,13 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
+- *2025.10*: &nbsp;🎉🎉 [MARCA-v2](https://ieeexplore.ieee.org/document/11214419) was accepted by IEEE TCAD!
 - *2025.10*: &nbsp;🎉🎉 Congratulation! I was awarded the National Scholarship (Ph.D Students). This is my fourth National Scholarship.
 - *2025.09*: &nbsp;🎉🎉 We release [SpecDiff](https://www.arxiv.org/abs/2509.13848) and [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) for diffusion and VLA model acceleration.
 - *2025.09*: &nbsp;🎉🎉 Two papers were accepted by ASP-DAC 2026. Look forward to meeting you next January in Hong Kong!
 - *2025.08*: &nbsp;🎤🎤 A invited talk (大模型推理软硬件协同优化) was given in Ordos, China. Thanks for the invitation of CCF-HPC 2025. 
-- *2025.06*: &nbsp;🎤🎤 Oral presentation in ISCA 2025 in Tokyo, Japan.
-- *2025.03*: &nbsp;🎉🎉 A paper was accpeted by ISCA 2025. Look forward to meeting you in June in Tokyo!
+<!-- - *2025.06*: &nbsp;🎤🎤 Oral presentation in ISCA 2025 in Tokyo, Japan. -->
+<!-- - *2025.03*: &nbsp;🎉🎉 A paper was accpeted by ISCA 2025. Look forward to meeting you in June in Tokyo! -->
 
 
 # 👥 Team
@@ -200,13 +201,13 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 
 
 
+- `IEEE TCAD 2026` <span style="color: red;">(CCF-A)</span>, [MARCA-v2: Mamba Accelerator with Complementary State Space Model Sparsity and Reconfigurable Architecture](https://ieeexplore.ieee.org/document/11214419), Jinhao Li\*, Shan Huang\*, **Jiaming Xu**, Jun Liu, Ningyi Xu, Guohao Dai
 
 
+- `IEEE TC 2025` <span style="color: red;">(CCF-A)</span>, [FlashDecoding++Next: High Throughput LLM Inference with Latency and Memory Optimization](https://ieeexplore.ieee.org/document/11062854/), Guohao Dai, Ke Hong, Qiuli Mao, Xiuhong Li, **Jiaming Xu**, Haofeng Huang, Hongtu Xia, Xuefei Ning, ShengenYan, Yun Liang, Yu Wang
 
-- `IEEE TC 2025` <span style="color: red;">(CCF-A)</span>, [FlashDecoding++Next: High Throughput LLM Inference with Latency and Memory Optimization](https://ieeexplore.ieee.org/document/11062854/), Guohao Dai, Ke Hong, Qiuli Mao, Xiuhong Li, Jiaming Xu, Haofeng Huang, Hongtu Xia, Xuefei Ning, ShengenYan, Yun Liang, Yu Wang
 
-
-- `ASP-DAC 2026`(CCF-C), BalanceGS: AlgorithmSystem Co-design for Efficient 3D Gaussian Splatting Training on GPU, Junyi Wu*, Jiaming Xu*, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
+- `ASP-DAC 2026`(CCF-C), BalanceGS: AlgorithmSystem Co-design for Efficient 3D Gaussian Splatting Training on GPU, Junyi Wu*, **Jiaming Xu\***, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
 
 - `CIKM 2025` (CCF-B), SG-Filter: Enhancing Similar Text Retrieval via Hierarchical Summarized-Semantic Index and Adaptive Filtering, Jiancai Ye\*, Jun Liu\*, Haoyu Zhang, Maojia Sheng, Tao Yang, **Jiaming Xu**, Jinhao Li, Yu Wang, Guohao Dai
 
