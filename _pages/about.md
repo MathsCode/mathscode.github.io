@@ -112,7 +112,7 @@ MLSys 2024 (non-CCF)
 
 Jiayi Pan*, **Jiaming Xu\***, Yongkang Zhou, Guohao Dai
 
-<span style="color: red;">AAAI 2026 Oral</span>
+<span style="color: red;">AAAI 2026 Oral (CCF-A)</span>
 
 [**Arxiv**](https://www.arxiv.org/abs/2509.13848) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:5nxA0vEk-isC'></span></strong> 
 </div>
