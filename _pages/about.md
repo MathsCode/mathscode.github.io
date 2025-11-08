@@ -23,6 +23,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 [SpecDiff](https://www.arxiv.org/abs/2509.13848) and MoSs was accepted by AAAI! <span style="color: red;">SpecDiff is accepted as Oral presentation!</span>
 - *2025.10*: &nbsp;🎉🎉 [MARCA-v2](https://ieeexplore.ieee.org/document/11214419) was accepted by IEEE TCAD!
 - *2025.10*: &nbsp;🎉🎉 Congratulation! I was awarded the National Scholarship (Ph.D Students). This is my fourth National Scholarship.
 - *2025.09*: &nbsp;🎉🎉 We release [SpecDiff](https://www.arxiv.org/abs/2509.13848) and [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) for diffusion and VLA model acceleration.
@@ -33,19 +34,22 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 👥 Team
-Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 10 students, including 4 Ph.D. students, 1 master student, and 5 undergraduates. I am very happpy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us</span> ([DAI-Sys小组招生](https://dai.sjtu.edu.cn/join.html)).
+Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 9 students, including 3 Ph.D. students, 1 master student, and 5 undergraduates. I am very happpy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us</span> ([DAI-Sys小组招生](https://dai.sjtu.edu.cn/join.html)).
 
 **Now**
 - Jiaming Xu (许珈铭): third year Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
 - Yaoxiu Lian (廉瑶秀): fourth year Ph.D student in Shanghai Jiao Tong University
 - Yongkang Zhou (周永康): first year Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
-- Kele Shao (邵可乐): first year Ph.D student in Westlake University and Shanghai Innovation Institude
+<!-- - Kele Shao (邵可乐): first year Ph.D student in Westlake University and Shanghai Innovation Institude -->
 - Jiayi Pan (潘佳一): second year master student in Shanghai Jiao Tong University
-- Tianlang Zhao (赵天朗): fourth year undergraduate in Shanghai Jiao Tong University
+<!-- - Tianlang Zhao (赵天朗): fourth year undergraduate in Shanghai Jiao Tong University -->
 - Hanzhen Wang (王翰楨): third year undergraduate in Shanghai Jiao Tong University
-- Haotian Fang (方皓天): second year undergraduate in Shanghai Jiao Tong University
-- Qiming Cheng (程淇铭): second year undergraduate in East China Normal University
+- Yifan Jiao (焦一帆): second year undergraduate in Shanghai Jiao Tong University
+- Mingyi Xu (徐铭怿): second year undergraduate in Shanghai Jiao Tong University
 - Chengze Yuan (袁诚泽): second year undergraduate in Shanghai Jiao Tong University
+- Haotian Fang (方皓天): second year undergraduate in Shanghai Jiao Tong University
+
+
 
 **Previous**
 - Siming Chen (陈思铭, 2024.10~2025.6): fourth year undergraduate in Lanzhou University
@@ -101,6 +105,20 @@ MLSys 2024 (non-CCF)
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SpecDiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation](https://www.arxiv.org/abs/2509.13848)
+
+Jiayi Pan*, **Jiaming Xu\***, Yongkang Zhou, Guohao Dai
+
+<span style="color: red;">AAAI 2026 Oral</span>
+
+[**Arxiv**](https://www.arxiv.org/abs/2509.13848) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:5nxA0vEk-isC'></span></strong> 
+</div>
+</div>
+
+
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SpecVLA.png' alt="sym" width="100%"></div></div>
@@ -116,16 +134,6 @@ Hanzhen Wang\*, **Jiaming Xu\***, Jiayi Pan, Yongkang Zhou, Guohao Dai
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SpecDiff.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation](https://www.arxiv.org/abs/2509.13848)
-
-Jiayi Pan*, **Jiaming Xu\***, Yongkang Zhou, Guohao Dai
-
-[**Arxiv**](https://www.arxiv.org/abs/2509.13848) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:5nxA0vEk-isC'></span></strong> 
-</div>
-</div>
 
 
 
@@ -205,6 +213,8 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 
 
 - `IEEE TC 2025` <span style="color: red;">(CCF-A)</span>, [FlashDecoding++Next: High Throughput LLM Inference with Latency and Memory Optimization](https://ieeexplore.ieee.org/document/11062854/), Guohao Dai, Ke Hong, Qiuli Mao, Xiuhong Li, **Jiaming Xu**, Haofeng Huang, Hongtu Xia, Xuefei Ning, ShengenYan, Yun Liang, Yu Wang
+
+- `AAAI 2026` <span style="color: red;">(CCF-A)</span>, [MoSs: Mixture of Scales for Efficient High-Resolution Autoregressive Image Generation](https://openreview.net/pdf?id=sdm8iVl0A3), Yaoxiu Lian, Liang Hao, Gou Zhihong, Yijia Zhang, **Jiaming Xu**, Guohao Dai, Ningyi Xu 
 
 
 - `ASP-DAC 2026`(CCF-C), BalanceGS: AlgorithmSystem Co-design for Efficient 3D Gaussian Splatting Training on GPU, Junyi Wu*, **Jiaming Xu\***, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
