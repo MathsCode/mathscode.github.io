@@ -65,7 +65,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 SpeContext: SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs
 
-**Jiaming Xu**, Jiayi Pan, Yongkang Zhou, Hanzhen Wang, Yongkang Zhou, Jinhao Li, Jiancai Ye, Yu Wang, Guohao Dai
+**Jiaming Xu**, Jiayi Pan, Yongkang Zhou, Hanzhen Wang, Yongkang Zhou, Jiancai Ye, Yu Wang, Guohao Dai
 
 <span style="color: red;">ASPLOS 2026 (CCF-A)</span>
 
