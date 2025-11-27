@@ -63,9 +63,9 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2026</div><img src='images/ASPLOS26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SpeContext: SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs
+SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs
 
-**Jiaming Xu**, Jiayi Pan, Yongkang Zhou, Hanzhen Wang, Yongkang Zhou, Jiancai Ye, Yu Wang, Guohao Dai
+**Jiaming Xu**, Jiayi Pan, Hanzhen Wang, Yongkang Zhou, Jiancai Ye, Yu Wang, Guohao Dai
 
 <span style="color: red;">ASPLOS 2026 (CCF-A)</span>
 
