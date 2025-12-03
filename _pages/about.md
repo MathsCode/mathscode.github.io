@@ -23,7 +23,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
-- *2025.11*: &nbsp;🎉🎉 SpeContext was accepted by ASPLOS 2026! <span style="color: red;">The accepted rate is only 10%!</span>
+- *2025.11*: &nbsp;🎉🎉 [SpeContext](https://arxiv.org/abs/2512.00722) was accepted by ASPLOS 2026! <span style="color: red;">The accepted rate is only 10%!</span>
 - *2025.11*: &nbsp;🎉🎉 [SpecDiff](https://www.arxiv.org/abs/2509.13848) and MoSs was accepted by AAAI! <span style="color: red;">SpecDiff is accepted as Oral presentation!</span>
 - *2025.10*: &nbsp;🎉🎉 [MARCA-v2](https://ieeexplore.ieee.org/document/11214419) was accepted by IEEE TCAD!
 - *2025.10*: &nbsp;🎉🎉 Congratulation! I was awarded the National Scholarship (Ph.D Students). This is my fourth National Scholarship.
@@ -63,13 +63,13 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2026</div><img src='images/ASPLOS26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs
+[SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs](https://arxiv.org/abs/2512.00722)
 
 **Jiaming Xu**, Jiayi Pan, Hanzhen Wang, Yongkang Zhou, Jiancai Ye, Yu Wang, Guohao Dai
 
 <span style="color: red;">ASPLOS 2026 (CCF-A)</span>
 
-<!-- [**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) <strong>|</strong> [**Code**](https://github.com/infinigence/SpecEE) ![](https://img.shields.io/github/stars/infinigence/SpecEE) <strong>|</strong>  [**机器之心**](https://mp.weixin.qq.com/s/vecJX1J8sFoRK8ZudFfzaA) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC'></span></strong>  -->
+[**Arxiv**](https://arxiv.org/abs/2512.00722) 
 </div>
 </div>
 
