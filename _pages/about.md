@@ -35,7 +35,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 👥 Team
-Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 9 students, including 3 Ph.D. students, 1 master student, and 5 undergraduates. I am very happpy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us</span> ([DAI-Sys小组招生](https://dai.sjtu.edu.cn/join.html)).
+Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 10 students, including 3 Ph.D. students, 1 master student, and 6 undergraduates. I am very happpy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us</span> ([DAI-Sys小组招生](https://dai.sjtu.edu.cn/join.html)).
 
 **Now**
 - Jiaming Xu (许珈铭): third year Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
@@ -43,12 +43,12 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 - Yongkang Zhou (周永康): first year Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
 <!-- - Kele Shao (邵可乐): first year Ph.D student in Westlake University and Shanghai Innovation Institude -->
 - Jiayi Pan (潘佳一): second year master student in Shanghai Jiao Tong University
-<!-- - Tianlang Zhao (赵天朗): fourth year undergraduate in Shanghai Jiao Tong University -->
+- Tianlang Zhao (赵天朗): fourth year undergraduate in Shanghai Jiao Tong University
 - Hanzhen Wang (王翰楨): third year undergraduate in Shanghai Jiao Tong University
 - Yifan Jiao (焦一帆): second year undergraduate in Shanghai Jiao Tong University
 - Mingyi Xu (徐铭怿): second year undergraduate in Shanghai Jiao Tong University
 - Chengze Yuan (袁诚泽): second year undergraduate in Shanghai Jiao Tong University
-- Haotian Fang (方皓天): second year undergraduate in Shanghai Jiao Tong University
+- Qiming Chen (程淇铭): second year undergraduate in East China Normal University
 
 
 
