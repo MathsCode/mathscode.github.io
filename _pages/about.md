@@ -22,6 +22,8 @@ I am Jiaming Xu (许珈铭), a third year Ph.D student supervised by [Prof. Guoh
 My research focuses on efficient machine learning systems (MLSys), primarily the effcient AI (e.g., LLM, sparse computing, embodied AI, multimodal model) inference through algorithm (e.g., quantization, pruning, speculative decoding) and system (kernel design, memory management, dataflow design, heterogeneous computing) co-deisgn. I have published 10+ papers <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international conferences and journals such as IEEE TCAD, ASPLOS, ISCA, AAAI, MLSys, DAC.
 
 
+
+
 # 🔥 News
 - *2025.11*: &nbsp;🎉🎉 [SpeContext](https://arxiv.org/abs/2512.00722) was accepted by ASPLOS 2026! <span style="color: red;">The accepted rate is only 10%!</span> Look forward to meeting you next March in Pittsburgh, USA!
 - *2025.11*: &nbsp;🎉🎉 [SpecDiff](https://www.arxiv.org/abs/2509.13848) and MoSs was accepted by AAAI! <span style="color: red;">SpecDiff is accepted as Oral presentation!</span> Look forward to meeting you next January in Singapore!
@@ -35,7 +37,9 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 👥 Team
-Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 10 students, including 3 Ph.D. students, 1 master student, and 6 undergraduates. I am very happpy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us</span> ([DAI-Sys小组招生](https://dai.sjtu.edu.cn/join.html)).
+Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 11 students, including 3 Ph.D. students, 1 master student, and 7 undergraduates. I am very happy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us. </span>
+
+<span style="color: red;">You can contact me via email (jiamingxu@sjtu.edu.cn) with your bio. You also contact me through searching 'MathsCode' in some social medias(e.g., RedNote（小红书）, Zhihu（知乎）). We welcome students from all over the world and both support online and offline cooperation.</span>.
 
 **Now**
 - Jiaming Xu (许珈铭): third year Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
@@ -49,6 +53,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 - Mingyi Xu (徐铭怿): second year undergraduate in Shanghai Jiao Tong University
 - Chengze Yuan (袁诚泽): second year undergraduate in Shanghai Jiao Tong University
 - Qiming Chen (程淇铭): second year undergraduate in East China Normal University
+- Jiewen Xiao (肖杰文): second year undergraduate in Shanghai Jiao Tong University
 
 
 
