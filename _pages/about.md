@@ -37,7 +37,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 👥 Team
-Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 11 students, including 3 Ph.D. students, 1 master student, and 7 undergraduates. I am very happy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us.</span> You can contact me via email (<span style="color: red;">jiamingxu@sjtu.edu.cn</span>) with your bio. You also contact me through searching 'MathsCode' in social medias(e.g., RedNote（小红书）, Zhihu（知乎）). We welcome students from all over the world and both support online and offline cooperation.
+Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 12 students, including 3 Ph.D. students, 1 master student, and 8 undergraduates. I am very happy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us.</span> You can contact me via email (<span style="color: red;">jiamingxu@sjtu.edu.cn</span>) with your bio. You also contact me through searching 'MathsCode' in social medias(e.g., RedNote（小红书）, Zhihu（知乎）). We welcome students from all over the world and both support online and offline cooperation.
 
 **Now**
 - Jiaming Xu (许珈铭): third year Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
@@ -52,6 +52,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 - Chengze Yuan (袁诚泽): second year undergraduate in Shanghai Jiao Tong University
 - Qiming Chen (程淇铭): second year undergraduate in East China Normal University
 - Jiewen Xiao (肖杰文): second year undergraduate in Shanghai Jiao Tong University
+- Shuhuan Li (李姝浣): first year undergraduate in Shanghai Jiao Tong University
 
 
 
