@@ -296,6 +296,7 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 - *2024.03*, **\[Invited Talk\]** NVIDIA GPU and LLM Exploration, Flat GEMM Optimization, SJTU @Shanghai, China
 
 # 💻 Service
+- *2026.01 - Now*, Reviewer, IEEE Transactions on Parallel and Distributed Systems <span style="color: red;">(CCF-A, Top Journal)</span>
 - *2026.01 - Now*, Reviewer, IEEE Transactions on Image Processing <span style="color: red;">(CCF-A, Top Journal)</span>
 - *2025.09 - Now*, Teaching Assistant, Thinking and Methodology in Programming (C++) (UG-CS1501-08) by [Prof. Weiguo Gu](https://me.sjtu.edu.cn/teacher_directory1/guweiguo.html)
 - *2025.02 - 2025.06*, Teaching Assistant, Algorithms and Complexity (UG-CS2308-01) by [Prof. Qingshen Ren](https://www.cs.sjtu.edu.cn/PeopleDetail.aspx?id=85)
