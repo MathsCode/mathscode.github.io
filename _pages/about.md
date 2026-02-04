@@ -285,6 +285,7 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 - *2019.09 - 2023.06*, School of Computer Science and Technology, Xidian University
 
 # 💬 Presentation
+- *2026.01*, **\[Oral Presentation\]** SpAct-NDP: Efficient LLM Inference via Sparse Activation on NDP-GPU Heterogeneous Architecture, ASP-DAC 2026 @Hongkong, China
 - *2025.08*, **\[Invited Talk\]** Efficient LLM inference via hardware-software codesign, CCF-HPC 2025 @Ordos, China
 - *2025.06*, **\[Oral Presentation\]** Accelerating Large Language Model Inference with Speculative Early Exiting, ISCA 2025 @Tokyo, Japan
 - *2024.12*, **\[Oral Presentation\]** Efficient LLM Inference on GPUs with Operator Optimization and Compilation, Chinasys 2024 @Tianjin, China
