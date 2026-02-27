@@ -258,7 +258,7 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 # 👨‍💻 Internship Experience
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Huawei (华为)</div><img src='images/Huawei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Huawei (华为)</div><img src='images/Huawei.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Research Intern @ Department of Foundation Large Models, 2012 Labs
@@ -275,7 +275,7 @@ Research Direction:
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infinigence AI (无问芯穹)</div><img src='images/infinigence.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infinigence AI (无问芯穹)</div><img src='images/infinigence.png' alt="sym" width="50%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 Research Intern @ Department of Foundation Large Models, 2012 Labs
@@ -285,8 +285,8 @@ Date: April, 2023 - April, 2024
 Supervisor: [Dr. Xiuhong Li](https://scholar.google.com/citations?user=90eREm0AAAAJ&hl=en)
 
 Research Direction:
-- GPU Optimization on LLM Operator Kernels: [FlashDecoding++, MLSys 2024](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf)
-- Algorithm and System Co-design on LLM Edge-side Inference: [SpecEE, ISCA 2025](https://dl.acm.org/doi/full/10.1145/3695053.3730996), [SpeContext, ASPLOS 2026](https://arxiv.org/abs/2512.00722)
+- GPU Optimization on LLM Operator Kernels: [FlashDecoding++ @ MLSys 2024](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf)
+- Algorithm and System Co-design on LLM Edge-side Inference: [SpecEE @ ISCA 2025](https://dl.acm.org/doi/full/10.1145/3695053.3730996), [SpeContext @ ASPLOS 2026](https://arxiv.org/abs/2512.00722)
 - Communication Optimization on Large-scale MoE LLM Inference
 </div>
 </div>
