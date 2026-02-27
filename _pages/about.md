@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Jiaming Xu (许珈铭), a third year Ph.D student supervised by [Prof. Guohao Dai (戴国浩)](https://dai.sjtu.edu.cn/pepledetail.html?id=218) in School of Computer Science, Shanghai Jiao Tong University ([上海交通大学计算机学院](https://www.cs.sjtu.edu.cn/)) and Shanghai Innovation Institute ([上海创智学院](https://www.sii.edu.cn/)). Previously, I obtained my Bachelor's degree in 2023 from School of Computer Science and Technology, Xidian University ([西安电子科技大学计算机科学与技术学院](https://cs.xidian.edu.cn/)) supervised by [Prof. Nannan Wang (王楠楠)](https://web.xidian.edu.cn/nnwang/). I was once an intern in Infinigence AI ([无问芯穹](https://cloud.infini-ai.com/platform/ai)) and now still collaborate closely with Xiuhong Li ([李秀红](https://www.zhihu.com/people/hong_pku)) in Infinigence AI.
+I am Jiaming Xu (许珈铭), a third year Ph.D student supervised by [Prof. Guohao Dai (戴国浩)](https://dai.sjtu.edu.cn/pepledetail.html?id=218) in School of Computer Science, Shanghai Jiao Tong University ([上海交通大学计算机学院](https://www.cs.sjtu.edu.cn/)) and Shanghai Innovation Institute ([上海创智学院](https://www.sii.edu.cn/)). Previously, I obtained my Bachelor's degree in 2023 from School of Computer Science and Technology, Xidian University ([西安电子科技大学计算机科学与技术学院](https://cs.xidian.edu.cn/)) supervised by [Prof. Nannan Wang (王楠楠)](https://web.xidian.edu.cn/nnwang/). I was once an intern in Infinigence AI ([无问芯穹](https://cloud.infini-ai.com/platform/ai)) and now still collaborate closely with Xiuhong Li ([李秀红](https://scholar.google.com/citations?user=90eREm0AAAAJ&hl=en)) in Infinigence AI.
 
 My research focuses on efficient machine learning systems (MLSys), primarily the effcient AI (e.g., LLM, sparse computing, embodied AI, multimodal model) inference through algorithm (e.g., quantization, pruning, speculative decoding) and system (kernel design, memory management, dataflow design, heterogeneous computing) co-deisgn. I have published 10+ papers <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international conferences and journals such as IEEE TCAD, ASPLOS, ISCA, AAAI, MLSys, DAC.
 
@@ -82,13 +82,13 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ISCA 2025</div><img src='images/ISCA25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf)
+[SpecEE: Accelerating Large Language Model Inference with Speculative Early Exiting](https://dl.acm.org/doi/full/10.1145/3695053.3730996)
 
 **Jiaming Xu**, Jiayi Pan, Yongkang Zhou, Siming Chen, Jinhao Li, Yaoxiu Lian, Junyi Wu, Guohao Dai
 
 <span style="color: red;">ISCA 2025 (CCF-A)</span>
 
-[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/7e067065-0e58-4e87-a373-feea0bebde1b.pdf) <strong>|</strong> [**Code**](https://github.com/infinigence/SpecEE) ![](https://img.shields.io/github/stars/infinigence/SpecEE) <strong>|</strong>  [**机器之心**](https://mp.weixin.qq.com/s/vecJX1J8sFoRK8ZudFfzaA) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC'></span></strong> 
+[**Paper**](https://dl.acm.org/doi/full/10.1145/3695053.3730996) <strong>|</strong> [**Code**](https://github.com/infinigence/SpecEE) ![](https://img.shields.io/github/stars/infinigence/SpecEE) <strong>|</strong>  [**机器之心**](https://mp.weixin.qq.com/s/vecJX1J8sFoRK8ZudFfzaA) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:WF5omc3nYNoC'></span></strong> 
 </div>
 </div>
 
@@ -255,7 +255,39 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 
 
 
+# 👨‍💻 Internship Experience
 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Huawei (华为)</div><img src='images/Huawei.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Research Intern @ Department of Foundation Large Models, 2012 Labs
+
+Date: February, 2026 - Now
+
+Supervisor: [Dr. Zhongzhe Hu](https://scholar.google.com/citations?user=-OugdboAAAAJ&hl=zh-CN)
+
+Research Direction:
+- Long Context Optimization in Large-scale LLM Inference
+- Design and Optimization on Multi-token Prediction in Large-scale LLM Inference
+
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Infinigence AI (无问芯穹)</div><img src='images/infinigence.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+Research Intern @ Department of Foundation Large Models, 2012 Labs
+
+Date: April, 2023 - April, 2024
+
+Supervisor: [Dr. Xiuhong Li](https://scholar.google.com/citations?user=90eREm0AAAAJ&hl=en)
+
+Research Direction:
+- GPU Optimization on LLM Operator Kernels: [FlashDecoding++, MLSys 2024](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf)
+- Algorithm and System Co-design on LLM Edge-side Inference: [SpecEE, ISCA 2025](https://dl.acm.org/doi/full/10.1145/3695053.3730996), [SpeContext, ASPLOS 2026](https://arxiv.org/abs/2512.00722)
+- Communication Optimization on Large-scale MoE LLM Inference
 
 
 
