@@ -257,11 +257,7 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 
 # 👨‍💻 Internship Experience
 
-
-<div class='internship-box'>
-<div class='internship-box-image'>
-<img src='images/Huawei.png' alt="Huawei (华为)">
-</div>
+<div class='internship-box'><div class='internship-box-image'><div><img src='images/Huawei.png' alt="Huawei (华为)" width="100%"></div></div>
 <div class='internship-box-text' markdown="1">
 
 Research Intern @ Department of Foundation Large Models, 2012 Labs
@@ -278,10 +274,7 @@ Research Direction:
 </div>
 
 
-<div class='internship-box'>
-<div class='internship-box-image'>
-<img src='images/infinigence.png' alt="Infinigence AI (无问芯穹)">
-</div>
+<div class='internship-box'><div class='internship-box-image'><div><img src='images/infinigence.png' alt="Infinigence AI (无问芯穹)" width="100%"></div></div>
 <div class='internship-box-text' markdown="1">
 
 Research Intern @ Department of Foundation Large Models, 2012 Labs
