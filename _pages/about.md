@@ -25,13 +25,14 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
+- *2025.11*: &nbsp;🎉🎉 [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) and [DistFlow](https://arxiv.org/abs/2507.13833) was accepted by ICML 2026! Congrats to 翰楨 and 治鑫. Look forward to meeting you in July in Seoul, South Korea!
 - *2025.11*: &nbsp;🎉🎉 [SpeContext](https://arxiv.org/abs/2512.00722) was accepted by ASPLOS 2026! <span style="color: red;">The accepted rate is only 10%!</span> Look forward to meeting you next March in Pittsburgh, USA!
-- *2025.11*: &nbsp;🎉🎉 [SpecDiff](https://www.arxiv.org/abs/2509.13848) and MoSs was accepted by AAAI! <span style="color: red;">SpecDiff is accepted as Oral presentation!</span> Look forward to meeting you next January in Singapore!
+- *2025.11*: &nbsp;🎉🎉 [SpecDiff](https://www.arxiv.org/abs/2509.13848) and [MoSs](https://ojs.aaai.org/index.php/AAAI/article/view/37611) was accepted by AAAI! <span style="color: red;">SpecDiff is accepted as Oral presentation!</span> Look forward to meeting you next January in Singapore!
 - *2025.10*: &nbsp;🎉🎉 [MARCA-v2](https://ieeexplore.ieee.org/document/11214419) was accepted by IEEE TCAD!
 - *2025.10*: &nbsp;🎉🎉 Congratulation! I was awarded the National Scholarship (Ph.D Students). This is my fourth National Scholarship.
 - *2025.09*: &nbsp;🎉🎉 We release [SpecDiff](https://www.arxiv.org/abs/2509.13848) and [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) for diffusion and VLA model acceleration.
-- *2025.09*: &nbsp;🎉🎉 Two papers were accepted by ASP-DAC 2026. Look forward to meeting you next January in Hong Kong!
-- *2025.08*: &nbsp;🎤🎤 A invited talk (大模型推理软硬件协同优化) was given in Ordos, China. Thanks for the invitation of CCF-HPC 2025. 
+<!-- - *2025.09*: &nbsp;🎉🎉 Two papers were accepted by ASP-DAC 2026. Look forward to meeting you next January in Hong Kong! -->
+<!-- - *2025.08*: &nbsp;🎤🎤 A invited talk (大模型推理软硬件协同优化) was given in Ordos, China. Thanks for the invitation of CCF-HPC 2025.  -->
 <!-- - *2025.06*: &nbsp;🎤🎤 Oral presentation in ISCA 2025 in Tokyo, Japan. -->
 <!-- - *2025.03*: &nbsp;🎉🎉 A paper was accpeted by ISCA 2025. Look forward to meeting you in June in Tokyo! -->
 
@@ -56,11 +57,14 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 - Shuhuan Li (李姝浣): first year undergraduate in Shanghai Jiao Tong University
 
 
-
 **Previous**
 - Siming Chen (陈思铭, 2024.10~2025.6): fourth year undergraduate in Lanzhou University
 - Junyi Wu (吴俊逸, 2024.1~2025.3): third year undergraduate in Shanghai Jiao Tong University
 
+**Collaboration**
+- [Ke Hong (洪可)](https://nicsefc.ee.tsinghua.edu.cn/people/KeHong): second year Ph.D student supervised by [Prof. Yu Wang (汪玉)](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang) in Tsinghua University
+- [Zhixin Wang (王治鑫)](https://scholar.google.com/citations?user=uoyGVBAAAAAJ&hl=zh-CN): second year Ph.D student supervised by [Prof. Yuan Qi (漆远)](https://ai3.fudan.edu.cn/info/1075/1414.htm) in Zhejiang University and Shanghai Innovation Institude
+- [Yushun Xiang (项裕顺)](https://yushunxiang.github.io/): second year master student supervised by [Prof. Yonglu Li (李永露)](https://scholar.google.com.hk/citations?user=UExAaVgAAAAJ&hl=en) in Shanghai Jiao Tong University
 
 
 # 📝 Publications 
@@ -125,7 +129,7 @@ MLSys 2024 (non-CCF)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SpecDiff.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SpecDiff.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpecDiff: Accelerating Diffusion Model Inference with Self-Speculation](https://www.arxiv.org/abs/2509.13848)
@@ -141,12 +145,14 @@ Jiayi Pan*, **Jiaming Xu\***, Yongkang Zhou, Guohao Dai
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/SpecVLA.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2026</div><img src='images/SpecVLA.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [SpecPrune-VLA: Accelerating VisionLanguage-Action Models via Action-Aware Self-Speculative Pruning](https://arxiv.org/abs/2509.05614)
 
 Hanzhen Wang\*, **Jiaming Xu\***, Jiayi Pan, Yongkang Zhou, Guohao Dai
+
+<span style="color: red;">ICML 2026 (CCF-A)</span>
 
 [**Arxiv**](https://arxiv.org/abs/2509.05614) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:0EnyYjriUFMC'></span></strong> 
 </div>
@@ -157,7 +163,7 @@ Hanzhen Wang\*, **Jiaming Xu\***, Jiayi Pan, Yongkang Zhou, Guohao Dai
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/aspdac26.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASP-DAC 2026</div><img src='images/aspdac26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 SpAct-NDP: Efficient LLM Inference via Sparse Activation on NDP-GPU Heterogeneous Architecture
@@ -234,7 +240,9 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 
 - `IEEE TC 2025` <span style="color: red;">(CCF-A)</span>, [FlashDecoding++Next: High Throughput LLM Inference with Latency and Memory Optimization](https://ieeexplore.ieee.org/document/11062854/), Guohao Dai, Ke Hong, Qiuli Mao, Xiuhong Li, **Jiaming Xu**, Haofeng Huang, Hongtu Xia, Xuefei Ning, ShengenYan, Yun Liang, Yu Wang
 
-- `AAAI 2026` <span style="color: red;">(CCF-A)</span>, [MoSs: Mixture of Scales for Efficient High-Resolution Autoregressive Image Generation](https://openreview.net/pdf?id=sdm8iVl0A3), Yaoxiu Lian, Liang Hao, Gou Zhihong, Yijia Zhang, **Jiaming Xu**, Guohao Dai, Ningyi Xu 
+- `ICML 2026` <span style="color: red;">(CCF-A)</span>, [DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](https://arxiv.org/abs/2507.13833), Zhixin Wang, **Jiaming Xu**, Tianyi Zhou, Mingjun Zhang, Liming Liu, JiaruiHu, Dian Yang, TongYu Wang, Ping Zhang, Jinlong Hou, Siyuan Feng, Yuan Cheng, Yuan Qi
+
+- `AAAI 2026` <span style="color: red;">(CCF-A)</span>, [MoSs: Mixture of Scales for Efficient High-Resolution Autoregressive Image Generation](https://ojs.aaai.org/index.php/AAAI/article/view/37611), Yaoxiu Lian, Liang Hao, Gou Zhihong, Yijia Zhang, **Jiaming Xu**, Guohao Dai, Ningyi Xu 
 
 
 - `ASP-DAC 2026`(CCF-C), BalanceGS: AlgorithmSystem Co-design for Efficient 3D Gaussian Splatting Training on GPU, Junyi Wu*, **Jiaming Xu\***, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
