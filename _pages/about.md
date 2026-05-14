@@ -25,6 +25,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Be recognized as a Gold Reviewer in ICML 2026.
 - *2025.11*: &nbsp;🎉🎉 [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) and [DistFlow](https://arxiv.org/abs/2507.13833) was accepted by ICML 2026! Congrats to 翰楨 and 治鑫. Look forward to meeting you in July in Seoul, South Korea!
 - *2025.11*: &nbsp;🎉🎉 [SpeContext](https://arxiv.org/abs/2512.00722) was accepted by ASPLOS 2026! <span style="color: red;">The accepted rate is only 10%!</span> Look forward to meeting you next March in Pittsburgh, USA!
 - *2025.11*: &nbsp;🎉🎉 [SpecDiff](https://www.arxiv.org/abs/2509.13848) and [MoSs](https://ojs.aaai.org/index.php/AAAI/article/view/37611) was accepted by AAAI! <span style="color: red;">SpecDiff is accepted as Oral presentation!</span> Look forward to meeting you next January in Singapore!
@@ -338,6 +339,7 @@ Research Direction:
 - *2024.03*, **\[Invited Talk\]** NVIDIA GPU and LLM Exploration, Flat GEMM Optimization, SJTU @Shanghai, China
 
 # 💻 Service
+- *2026.01 - Now*, Reviewer, ICML 2026 <span style="color: red;">(Glod Reviewer, CCF-A, Top Conference)</span>
 - *2026.01 - Now*, Reviewer, IEEE Transactions on Parallel and Distributed Systems <span style="color: red;">(CCF-A, Top Journal)</span>
 - *2026.01 - Now*, Reviewer, IEEE Transactions on Image Processing <span style="color: red;">(CCF-A, Top Journal)</span>
 - *2025.09 - Now*, Teaching Assistant, Thinking and Methodology in Programming (C++) (UG-CS1501-08) by [Prof. Weiguo Gu](https://me.sjtu.edu.cn/teacher_directory1/guweiguo.html)
