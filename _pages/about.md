@@ -64,7 +64,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 **Collaboration**
 - [Ke Hong (洪可)](https://nicsefc.ee.tsinghua.edu.cn/people/KeHong): second year Ph.D student supervised by [Prof. Yu Wang (汪玉)](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang) in Tsinghua University
-- [Zhixin Wang (王治鑫)](https://scholar.google.com/citations?user=uoyGVBAAAAAJ&hl=zh-CN): second year Ph.D student supervised by [Prof. Yuan Qi (漆远)](https://ai3.fudan.edu.cn/info/1075/1414.htm) in Zhejiang University and Shanghai Innovation Institude
+- [Zhixin Wang (王治鑫)](https://scholar.google.com/citations?user=uoyGVBAAAAAJ&hl=zh-CN): second year Ph.D student supervised by [Prof. Siyuan Feng (冯思远)](https://syfeng.net/) in Zhejiang University and Shanghai Innovation Institude
 - [Yushun Xiang (项裕顺)](https://yushunxiang.github.io/): second year master student supervised by [Prof. Yonglu Li (李永露)](https://scholar.google.com.hk/citations?user=UExAaVgAAAAJ&hl=en) in Shanghai Jiao Tong University
 
 
