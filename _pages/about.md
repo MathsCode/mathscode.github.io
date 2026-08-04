@@ -68,18 +68,87 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 - [Yushun Xiang (项裕顺)](https://yushunxiang.github.io/): second year master student supervised by [Prof. Yonglu Li (李永露)](https://scholar.google.com.hk/citations?user=UExAaVgAAAAJ&hl=en) in Shanghai Jiao Tong University
 
 
-# 📝 Publications 
+# 📝 Publications(Selected) 
+
+## Survey
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/hardware_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective](https://arxiv.org/abs/2410.04466)
+
+Jinhao Li, **Jiaming Xu**, Shan Huang, Yonghua Chen, Wen Li, Jun Liu, Yaoxiu Lian, Jiayi Pan, Li Ding, Hao Zhou, Yu Wang, Guohao Dai
+
+[**Arxiv**](https://arxiv.org/abs/2410.04466) <strong>|</strong> [**Code**](https://github.com/Kimho666/LLM_Hardware_Survey) <strong>|</strong> [**推广**](https://mp.weixin.qq.com/s/_rvKIZB1IzsX7Z6oe1a2rw) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:UeHWp8X0CEIC'></span></strong> 
+</div>
+</div>
+
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/tsinghua_survey.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)
+
+Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming Lou, Luning Wang, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang
+
+[**Arxiv**](https://arxiv.org/abs/2404.14294) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/7LKfamTnCyFih6_grf9m3A) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:2osOgNQ5qMEC'></span></strong> 
+</div>
+</div>
+
+
+## Inference and Training Framework Optimization
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCAD 2025</div><img src='images/TCAD25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Enabling Efficient Sparse Multiplications on GPUs with Heuristic Adaptability](https://ieeexplore.ieee.org/document/10802949)
+
+**Jiaming Xu\***, Shan Huang\*, Jinhao Li, Guyue Huang, Yuan Xie, Yu Wang, Guohao Dai
+
+<span style="color: red;">IEEE TCAD 2025 (CCF-A)</span>
+
+[**Paper**](https://ieeexplore.ieee.org/document/10802949) <strong>|</strong> [**Project**](https://dgsparse.github.io/) <strong>|</strong> [**Code**](https://github.com/dgSPARSE) ![](https://img.shields.io/github/stars/dgSPARSE/dgSPARSE-Lib) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2024</div><img src='images/MLSys24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf)
+
+Ke Hong\*, Guohao Dai\*, **Jiaming Xu\***, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Yuhan Dong and Yu Wang
+
+MLSys 2024 (non-CCF)
+
+[**Paper**](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf) <strong>|</strong> [**Arxiv**](https://arxiv.org/abs/2311.01282) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/e9OHATqk88Q9zM3Y5czFQA)  <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:qjMakFHDy7sC'></span></strong> 
+</div>
+</div>
+
+
+- `ICML 2026` <span style="color: red;">(CCF-A)</span>, [DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](https://arxiv.org/abs/2507.13833), Zhixin Wang, **Jiaming Xu**, Tianyi Zhou, Mingjun Zhang, Liming Liu, JiaruiHu, Dian Yang, TongYu Wang, Ping Zhang, Jinlong Hou, Siyuan Feng, Yuan Cheng, Yuan Qi
+
+- `IEEE TC 2025` <span style="color: red;">(CCF-A)</span>, [FlashDecoding++Next: High Throughput LLM Inference with Latency and Memory Optimization](https://ieeexplore.ieee.org/document/11062854/), Guohao Dai, Ke Hong, Qiuli Mao, Xiuhong Li, **Jiaming Xu**, Haofeng Huang, Hongtu Xia, Xuefei Ning, ShengenYan, Yun Liang, Yu Wang
+
+- `DAC 2025` <span style="color: red;">(CCF-A)</span>, [A Cross-model Fusion-aware Framework for Optimizing (gather-matmul-scatter)s Workload](https://dai.sjtu.edu.cn/my_file/pdf/a5764a0c-bde6-46df-b884-92e89c8e9cbf.pdf), Yaoxiu Lian, Zhihong Gou, Yibo Han, Zhongming Yu, **Jiaming Xu**, Sheng Yuan, Zhilin Pei, Xingcheng Zhang, Ningyi Xu and Guohao Dai
+
+- `ASP-DAC 2026`(CCF-C), BalanceGS: AlgorithmSystem Co-design for Efficient 3D Gaussian Splatting Training on GPU, Junyi Wu*, **Jiaming Xu\***, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
+
+
+
+
+## Effcient Algorithm Design
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2026</div><img src='images/ASPLOS26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs](https://arxiv.org/abs/2512.00722)
+[SpeContext: Enabling Efficient Long-context Reasoning with Speculative Context Sparsity in LLMs](https://dl.acm.org/doi/epdf/10.1145/3779212.3790224)
 
 **Jiaming Xu**, Jiayi Pan, Hanzhen Wang, Yongkang Zhou, Jiancai Ye, Yu Wang, Guohao Dai
 
 <span style="color: red;">ASPLOS 2026 (CCF-A)</span>
 
-[**Arxiv**](https://arxiv.org/abs/2512.00722) 
+[**Paper**](https://dl.acm.org/doi/epdf/10.1145/3779212.3790224) 
 </div>
 </div>
 
@@ -99,35 +168,6 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 
 
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCAD 2025</div><img src='images/TCAD25.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Enabling Efficient Sparse Multiplications on GPUs with Heuristic Adaptability](https://ieeexplore.ieee.org/document/10802949)
-
-**Jiaming Xu\***, Shan Huang\*, Jinhao Li, Guyue Huang, Yuan Xie, Yu Wang, Guohao Dai
-
-<span style="color: red;">IEEE TCAD 2025 (CCF-A)</span>
-
-[**Paper**](https://ieeexplore.ieee.org/document/10802949) <strong>|</strong> [**Project**](https://dgsparse.github.io/) <strong>|</strong> [**Code**](https://github.com/dgSPARSE) ![](https://img.shields.io/github/stars/dgSPARSE/dgSPARSE-Lib) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Tyk-4Ss8FVUC'></span></strong> 
-</div>
-</div>
-
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2024</div><img src='images/MLSys24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[FlashDecoding++: Faster Large Language Model Inference with Asynchronization, Flat GEMM Optimization, and Heuristics](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf)
-
-Ke Hong\*, Guohao Dai\*, **Jiaming Xu\***, Qiuli Mao, Xiuhong Li, Jun Liu, Kangdi Chen, Yuhan Dong and Yu Wang
-
-MLSys 2024 (non-CCF)
-
-[**Paper**](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf) <strong>|</strong> [**Arxiv**](https://arxiv.org/abs/2311.01282) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/e9OHATqk88Q9zM3Y5czFQA)  <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:qjMakFHDy7sC'></span></strong> 
-</div>
-</div>
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">AAAI 2026</div><img src='images/SpecDiff.png' alt="sym" width="100%"></div></div>
@@ -160,8 +200,29 @@ Hanzhen Wang\*, **Jiaming Xu\***, Jiayi Pan, Yongkang Zhou, Guohao Dai
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/iccad24.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Fast and Efficient 2-bit LLM Inference on GPU: 2/4/16-bit in a Weight Matrix with Asynchronous Dequantization](https://dai.sjtu.edu.cn/my_file/pdf/f1c6a4bb-4556-43e2-8e46-4ab38d8bfed4.pdf)
+
+Jinhao Li\*, **Jiaming Xu\***, Shiyao Li, Shan Huang, Jun Liu, Yaoxiu Lian and Guohao Dai
+
+ICCAD 2024 (CCF-B)
+
+[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/f1c6a4bb-4556-43e2-8e46-4ab38d8bfed4.pdf) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:eQOLeE2rZwMC'></span></strong> 
+</div>
+</div>
 
 
+
+
+- `AAAI 2026` <span style="color: red;">(CCF-A)</span>, [MoSs: Mixture of Scales for Efficient High-Resolution Autoregressive Image Generation](https://ojs.aaai.org/index.php/AAAI/article/view/37611), Yaoxiu Lian, Liang Hao, Gou Zhihong, Yijia Zhang, **Jiaming Xu**, Guohao Dai, Ningyi Xu 
+
+- `CIKM 2025` (CCF-B), SG-Filter: Enhancing Similar Text Retrieval via Hierarchical Summarized-Semantic Index and Adaptive Filtering, Jiancai Ye\*, Jun Liu\*, Haoyu Zhang, Maojia Sheng, Tao Yang, **Jiaming Xu**, Jinhao Li, Yu Wang, Guohao Dai
+
+- `DATE 2025` (CCF-B), [DyLGNN: Efficient LM-GNN Fine-tuning with Dynamic Node Partitioning, Low-degree Sparsity, and Asynchronous Sub-batch](https://dai.sjtu.edu.cn/my_file/pdf/08856e49-c2eb-4421-b5cd-ebd4d436fb5c.pdf), Zhen Yu\*, Jinhao Li\*, **Jiaming Xu**, Shan Huang, Jiancai Ye, Ningyi Xu and Guohao Dai
+
+## Efficient Architecture Design
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASP-DAC 2026</div><img src='images/aspdac26.png' alt="sym" width="100%"></div></div>
@@ -179,7 +240,7 @@ ASP-DAC 2026 (CCF-C)
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/aspdac25.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASP-DAC 2025</div><img src='images/aspdac25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Accelerator for LLM-Enhanced GNN with Product Quantization and Unified Indexing](https://dai.sjtu.edu.cn/my_file/pdf/8543405a-e6d3-48de-89b9-f1a89e0a4ae9.pdf)
@@ -194,73 +255,16 @@ ASP-DAC 2025 (CCF-C)
 
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCAD 2024</div><img src='images/iccad24.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Fast and Efficient 2-bit LLM Inference on GPU: 2/4/16-bit in a Weight Matrix with Asynchronous Dequantization](https://dai.sjtu.edu.cn/my_file/pdf/f1c6a4bb-4556-43e2-8e46-4ab38d8bfed4.pdf)
-
-Jinhao Li\*, **Jiaming Xu\***, Shiyao Li, Shan Huang, Jun Liu, Yaoxiu Lian and Guohao Dai
-
-ICCAD 2024 (CCF-B)
-
-[**Paper**](https://dai.sjtu.edu.cn/my_file/pdf/f1c6a4bb-4556-43e2-8e46-4ab38d8bfed4.pdf) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:eQOLeE2rZwMC'></span></strong> 
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/hardware_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[Large Language Model Inference Acceleration: A Comprehensive Hardware Perspective](https://arxiv.org/abs/2410.04466)
-
-Jinhao Li, **Jiaming Xu**, Shan Huang, Yonghua Chen, Wen Li, Jun Liu, Yaoxiu Lian, Jiayi Pan, Li Ding, Hao Zhou, Yu Wang, Guohao Dai
-
-[**Arxiv**](https://arxiv.org/abs/2410.04466) <strong>|</strong> [**Code**](https://github.com/Kimho666/LLM_Hardware_Survey) <strong>|</strong> [**推广**](https://mp.weixin.qq.com/s/_rvKIZB1IzsX7Z6oe1a2rw) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:UeHWp8X0CEIC'></span></strong> 
-</div>
-</div>
-
-
-
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/tsinghua_survey.png' alt="sym" width="100%"></div></div>
-<div class='paper-box-text' markdown="1">
-
-[A Survey on Efficient Inference for Large Language Models](https://arxiv.org/abs/2404.14294)
-
-Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming Lou, Luning Wang, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang
-
-[**Arxiv**](https://arxiv.org/abs/2404.14294) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/7LKfamTnCyFih6_grf9m3A) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:2osOgNQ5qMEC'></span></strong> 
-</div>
-</div>
-
 
 
 
 - `IEEE TCAD 2026` <span style="color: red;">(CCF-A)</span>, [MARCA-v2: Mamba Accelerator with Complementary State Space Model Sparsity and Reconfigurable Architecture](https://ieeexplore.ieee.org/document/11214419), Jinhao Li\*, Shan Huang\*, **Jiaming Xu**, Jun Liu, Ningyi Xu, Guohao Dai
 
-
-- `IEEE TC 2025` <span style="color: red;">(CCF-A)</span>, [FlashDecoding++Next: High Throughput LLM Inference with Latency and Memory Optimization](https://ieeexplore.ieee.org/document/11062854/), Guohao Dai, Ke Hong, Qiuli Mao, Xiuhong Li, **Jiaming Xu**, Haofeng Huang, Hongtu Xia, Xuefei Ning, ShengenYan, Yun Liang, Yu Wang
-
-- `ICML 2026` <span style="color: red;">(CCF-A)</span>, [DistFlow: A Fully Distributed RL Framework for Scalable and Efficient LLM Post-Training](https://arxiv.org/abs/2507.13833), Zhixin Wang, **Jiaming Xu**, Tianyi Zhou, Mingjun Zhang, Liming Liu, JiaruiHu, Dian Yang, TongYu Wang, Ping Zhang, Jinlong Hou, Siyuan Feng, Yuan Cheng, Yuan Qi
-
-- `AAAI 2026` <span style="color: red;">(CCF-A)</span>, [MoSs: Mixture of Scales for Efficient High-Resolution Autoregressive Image Generation](https://ojs.aaai.org/index.php/AAAI/article/view/37611), Yaoxiu Lian, Liang Hao, Gou Zhihong, Yijia Zhang, **Jiaming Xu**, Guohao Dai, Ningyi Xu 
-
-
-- `ASP-DAC 2026`(CCF-C), BalanceGS: AlgorithmSystem Co-design for Efficient 3D Gaussian Splatting Training on GPU, Junyi Wu*, **Jiaming Xu\***, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
-
-- `CIKM 2025` (CCF-B), SG-Filter: Enhancing Similar Text Retrieval via Hierarchical Summarized-Semantic Index and Adaptive Filtering, Jiancai Ye\*, Jun Liu\*, Haoyu Zhang, Maojia Sheng, Tao Yang, **Jiaming Xu**, Jinhao Li, Yu Wang, Guohao Dai
-
-- `DAC 2025` <span style="color: red;">(CCF-A)</span>, [A Cross-model Fusion-aware Framework for Optimizing (gather-matmul-scatter)s Workload](https://dai.sjtu.edu.cn/my_file/pdf/a5764a0c-bde6-46df-b884-92e89c8e9cbf.pdf), Yaoxiu Lian, Zhihong Gou, Yibo Han, Zhongming Yu, **Jiaming Xu**, Sheng Yuan, Zhilin Pei, Xingcheng Zhang, Ningyi Xu and Guohao Dai
-
-- `DATE 2025` (CCF-B), [DyLGNN: Efficient LM-GNN Fine-tuning with Dynamic Node Partitioning, Low-degree Sparsity, and Asynchronous Sub-batch](https://dai.sjtu.edu.cn/my_file/pdf/08856e49-c2eb-4421-b5cd-ebd4d436fb5c.pdf), Zhen Yu\*, Jinhao Li\*, **Jiaming Xu**, Shan Huang, Jiancai Ye, Ningyi Xu and Guohao Dai
-
-- `ASP-DAC 2025`(CCF-C), [LLSM: LLM-enhanced Logic Synthesis Model with EDA-guided CoT Prompting, Hybrid Embedding and* AIG-tailored Acceleration](https://dai.sjtu.edu.cn/my_file/pdf/739d9f50-3749-47e0-a40f-3c5a63c54b31.pdf), Shan Huang\*, Jinhao Li\*, Zhen Yu, Jiancai Ye, **Jiaming Xu**, Ningyi Xu and Guohao Dai
-
-
 - `ICCAD 2024` (CCF-B), [MARCA: Mamba Accelerator with Reconfigurable Architecture](https://dai.sjtu.edu.cn/my_file/pdf/010527f5-f0b2-4859-8c27-9052bd14da49.pdf), Jinhao Li\*, Shan Huang\*, **Jiaming Xu**, Jun Liu, Li Ding, Ningyi Xu and Guohao Dai
 
 - `ICCAD 2023` (CCF-B), [TSTC: Two-level Sparsity Tensor Core Enabling both Algorithm Flexibility and Hardware Efficiency](https://dai.sjtu.edu.cn/my_file/pdf/9b9ce3a9-703e-48a7-88be-9b9330a34dfe.pdf), Jun Liu, Guohao Dai, Hao Xia, Lidong Guo, Xiangsheng Shi, **Jiaming Xu**, Huazhong Yang and Yu Wang
 
+- `ASP-DAC 2025`(CCF-C), [LLSM: LLM-enhanced Logic Synthesis Model with EDA-guided CoT Prompting, Hybrid Embedding and* AIG-tailored Acceleration](https://dai.sjtu.edu.cn/my_file/pdf/739d9f50-3749-47e0-a40f-3c5a63c54b31.pdf), Shan Huang\*, Jinhao Li\*, Zhen Yu, Jiancai Ye, **Jiaming Xu**, Ningyi Xu and Guohao Dai
 
 
 
