@@ -70,7 +70,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 # 📝 Publications(Selected) 
 
-**Survey**
+# Survey
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/hardware_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,7 +97,7 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 </div>
 
 
-**Inference and Training Framework Optimization**
+# Inference and Training Framework Optimization
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCAD 2025</div><img src='images/TCAD25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -137,7 +137,7 @@ MLSys 2024 (non-CCF)
 
 
 
-**Effcient Algorithm Design**
+# Effcient Algorithm Design
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2026</div><img src='images/ASPLOS26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
