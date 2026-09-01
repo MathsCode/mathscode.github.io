@@ -80,7 +80,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 Jinhao Li, **Jiaming Xu**, Shan Huang, Yonghua Chen, Wen Li, Jun Liu, Yaoxiu Lian, Jiayi Pan, Li Ding, Hao Zhou, Yu Wang, Guohao Dai
 
-[**Arxiv**](https://arxiv.org/abs/2410.04466) <strong>|</strong> [**Code**](https://github.com/Kimho666/LLM_Hardware_Survey) <strong>|</strong> [**推广**](https://mp.weixin.qq.com/s/_rvKIZB1IzsX7Z6oe1a2rw) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:UeHWp8X0CEIC'></span></strong> 
+[**Paper**](https://arxiv.org/abs/2410.04466) <strong>|</strong> [**Code**](https://github.com/Kimho666/LLM_Hardware_Survey) <strong>|</strong> [**推广**](https://mp.weixin.qq.com/s/_rvKIZB1IzsX7Z6oe1a2rw) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:UeHWp8X0CEIC'></span></strong> 
 </div>
 </div>
 
@@ -93,7 +93,7 @@ Jinhao Li, **Jiaming Xu**, Shan Huang, Yonghua Chen, Wen Li, Jun Liu, Yaoxiu Lia
 
 Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming Lou, Luning Wang, Zhihang Yuan, Xiuhong Li, Shengen Yan, Guohao Dai, Xiao-Ping Zhang, Yuhan Dong, Yu Wang
 
-[**Arxiv**](https://arxiv.org/abs/2404.14294) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/7LKfamTnCyFih6_grf9m3A) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:2osOgNQ5qMEC'></span></strong> 
+[**Paper**](https://arxiv.org/abs/2404.14294) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/7LKfamTnCyFih6_grf9m3A) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:2osOgNQ5qMEC'></span></strong> 
 </div>
 </div>
 
@@ -123,7 +123,7 @@ Ke Hong\*, Guohao Dai\*, **Jiaming Xu\***, Qiuli Mao, Xiuhong Li, Jun Liu, Kangd
 
 MLSys 2024 (non-CCF)
 
-[**Paper**](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf) <strong>|</strong> [**Arxiv**](https://arxiv.org/abs/2311.01282) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/e9OHATqk88Q9zM3Y5czFQA)  <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:qjMakFHDy7sC'></span></strong> 
+[**HuggingFace Daily #1 Paper**](https://huggingface.co/papers/2311.01282) <strong>|</strong> [**Paper**](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf) <strong>|</strong> [**Code**](https://github.com/hkeee21/FlashDecodingPlusAE) ![](https://img.shields.io/github/stars/hkeee21/FlashDecodingPlusAE) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/e9OHATqk88Q9zM3Y5czFQA)  <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:qjMakFHDy7sC'></span></strong> 
 </div>
 </div>
 
@@ -134,7 +134,7 @@ MLSys 2024 (non-CCF)
 
 - `DAC 2025` <span style="color: red;">(CCF-A)</span>, [A Cross-model Fusion-aware Framework for Optimizing (gather-matmul-scatter)s Workload](https://dai.sjtu.edu.cn/my_file/pdf/a5764a0c-bde6-46df-b884-92e89c8e9cbf.pdf), Yaoxiu Lian, Zhihong Gou, Yibo Han, Zhongming Yu, **Jiaming Xu**, Sheng Yuan, Zhilin Pei, Xingcheng Zhang, Ningyi Xu and Guohao Dai
 
-- `ASP-DAC 2026`(CCF-C), BalanceGS: AlgorithmSystem Co-design for Efficient 3D Gaussian Splatting Training on GPU, Junyi Wu*, **Jiaming Xu\***, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
+- `ASP-DAC 2026`(CCF-C), [BalanceGS: AlgorithmSystem Co-design for Efficient 3D Gaussian Splatting Training on GPU](https://ieeexplore.ieee.org/document/11420502/), Junyi Wu*, **Jiaming Xu\***, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
 
 
 
@@ -151,7 +151,7 @@ MLSys 2024 (non-CCF)
 
 <span style="color: red;">ASPLOS 2026 (CCF-A)</span>
 
-[**Paper**](https://dl.acm.org/doi/epdf/10.1145/3779212.3790224) 
+[**Paper**](https://dl.acm.org/doi/epdf/10.1145/3779212.3790224) <strong>|</strong> [**公众号**](https://mp.weixin.qq.com/s/pQczIBwMIwa2Az1002sJxw) <strong>|</strong> [**小红书**](https://www.xiaohongshu.com/explore/6a855707000000002403e9bb?app_platform=ios&app_version=9.43&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBVoUGQJXelMbGOosm_-BvObJHOT-wXX_baKBeSTxz9eI=&author_share=1&xhsshare=WeixinSession&shareRedId=N0w3Q0g8RT42NzUyOTgwNjY0OTc8Ojo6&apptime=1787125742&share_id=2c8b695e49c946fbad19017d5dcc8689&wechatWid=f8a73d2f485c8bf5c66465be633d4ddb&wechatOrigin=menu) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:ULOm3_A8WrAC'></span></strong> 
 </div>
 </div>
 
@@ -182,7 +182,7 @@ Jiayi Pan*, **Jiaming Xu\***, Yongkang Zhou, Guohao Dai
 
 <span style="color: red;">AAAI 2026 Oral (CCF-A)</span>
 
-[**Arxiv**](https://www.arxiv.org/abs/2509.13848) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:5nxA0vEk-isC'></span></strong> 
+[**Paper**](https://www.arxiv.org/abs/2509.13848) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:qxL8FJ1GzNcC'></span></strong> 
 </div>
 </div>
 
@@ -198,7 +198,7 @@ Hanzhen Wang\*, **Jiaming Xu\***, Jiayi Pan, Yongkang Zhou, Guohao Dai
 
 <span style="color: red;">ICML 2026 (CCF-A)</span>
 
-[**Arxiv**](https://arxiv.org/abs/2509.05614) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:0EnyYjriUFMC'></span></strong> 
+[**Paper**](https://arxiv.org/abs/2509.05614) <strong>|</strong> [**Code**](https://github.com/alexwhz-sjtu/SpecPrune-VLA) ![](https://img.shields.io/github/stars/alexwhz-sjtu/SpecPrune-VLA) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:0EnyYjriUFMC'></span></strong> 
 </div>
 </div>
 
@@ -221,7 +221,7 @@ ICCAD 2024 (CCF-B)
 
 - `AAAI 2026` <span style="color: red;">(CCF-A)</span>, [MoSs: Mixture of Scales for Efficient High-Resolution Autoregressive Image Generation](https://ojs.aaai.org/index.php/AAAI/article/view/37611), Yaoxiu Lian, Liang Hao, Gou Zhihong, Yijia Zhang, **Jiaming Xu**, Guohao Dai, Ningyi Xu 
 
-- `CIKM 2025` (CCF-B), SG-Filter: Enhancing Similar Text Retrieval via Hierarchical Summarized-Semantic Index and Adaptive Filtering, Jiancai Ye\*, Jun Liu\*, Haoyu Zhang, Maojia Sheng, Tao Yang, **Jiaming Xu**, Jinhao Li, Yu Wang, Guohao Dai
+- `CIKM 2025` (CCF-B), [SG-Filter: Enhancing Similar Text Retrieval via Hierarchical Summarized-Semantic Index and Adaptive Filtering](https://dl.acm.org/doi/10.1145/3746252.3761023), Jiancai Ye\*, Jun Liu\*, Haoyu Zhang, Maojia Sheng, Tao Yang, **Jiaming Xu**, Jinhao Li, Yu Wang, Guohao Dai
 
 - `DATE 2025` (CCF-B), [DyLGNN: Efficient LM-GNN Fine-tuning with Dynamic Node Partitioning, Low-degree Sparsity, and Asynchronous Sub-batch](https://dai.sjtu.edu.cn/my_file/pdf/08856e49-c2eb-4421-b5cd-ebd4d436fb5c.pdf), Zhen Yu\*, Jinhao Li\*, **Jiaming Xu**, Shan Huang, Jiancai Ye, Ningyi Xu and Guohao Dai
 
@@ -232,12 +232,14 @@ ICCAD 2024 (CCF-B)
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASP-DAC 2026</div><img src='images/aspdac26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-SpAct-NDP: Efficient LLM Inference via Sparse Activation on NDP-GPU Heterogeneous Architecture
+[SpAct-NDP: Efficient LLM Inference via Sparse Activation on NDP-GPU Heterogeneous Architecture](https://ieeexplore.ieee.org/abstract/document/11420624/)
 
-ASP-DAC 2026 (CCF-C)
 
 **Jiaming Xu\***, Tongxin Xie\*, Yongkang Zhou, Jinhao Li, Yaoxiu Lian, Zhenhua Zhu, Yu Wang, Guohao Dai
 
+ASP-DAC 2026 (CCF-C)
+
+[**Paper**](https://ieeexplore.ieee.org/abstract/document/11420624)
 
 </div>
 </div>

@@ -87,17 +87,41 @@
 
 }
 
-// Section headings used under "Publications (Selected)". Keep the semantic
-// h2 hierarchy while giving these headings the visual weight of an h1.
+// Make the four research directions visually distinct while keeping the
+// semantic h2 hierarchy under "Publications (Selected)".
+.page__content {
+    counter-reset: publication-category;
+}
+
 .page__content .publication-category {
-    margin: 1.25em 0 0.25em;
-    padding-bottom: 0;
-    border-bottom: 0;
+    counter-increment: publication-category;
+    margin: 1.5em 0 0.5em;
+    padding: 0.6em 0.8em 0.55em;
+    border: 0;
+    border-left: 5px solid $link-color;
+    border-radius: 0.25em;
+    background: linear-gradient(
+        90deg,
+        rgba($link-color, 0.12) 0%,
+        rgba($link-color, 0.03) 100%
+    );
+    color: $link-color;
     font-size: $type-size-3;
     line-height: 1.25;
 
+    &::before {
+        content: "Research Direction " counter(publication-category, decimal-leading-zero);
+        display: block;
+        margin-bottom: 0.25em;
+        color: mix(#fff, $link-color, 25%);
+        font-size: 0.45em;
+        font-weight: bold;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+    }
+
     + .paper-box {
-        padding-top: 1em;
+        padding-top: 0.75em;
     }
 }
 
