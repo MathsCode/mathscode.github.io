@@ -70,7 +70,8 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 # 📝 Publications(Selected) 
 
-# Survey
+## Survey
+{:.publication-category}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/hardware_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -97,7 +98,8 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 </div>
 
 
-# Inference and Training Framework Optimization
+## Inference and Training Framework Optimization
+{:.publication-category}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCAD 2025</div><img src='images/TCAD25.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -137,7 +139,8 @@ MLSys 2024 (non-CCF)
 
 
 
-# Effcient Algorithm Design
+## Efficient Algorithm Design
+{:.publication-category}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2026</div><img src='images/ASPLOS26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
@@ -222,7 +225,8 @@ ICCAD 2024 (CCF-B)
 
 - `DATE 2025` (CCF-B), [DyLGNN: Efficient LM-GNN Fine-tuning with Dynamic Node Partitioning, Low-degree Sparsity, and Asynchronous Sub-batch](https://dai.sjtu.edu.cn/my_file/pdf/08856e49-c2eb-4421-b5cd-ebd4d436fb5c.pdf), Zhen Yu\*, Jinhao Li\*, **Jiaming Xu**, Shan Huang, Jiancai Ye, Ningyi Xu and Guohao Dai
 
-**Efficient Architecture Design**
+## Efficient Architecture Design
+{:.publication-category}
 
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASP-DAC 2026</div><img src='images/aspdac26.png' alt="sym" width="100%"></div></div>

@@ -87,6 +87,20 @@
 
 }
 
+// Section headings used under "Publications (Selected)". Keep the semantic
+// h2 hierarchy while giving these headings the visual weight of an h1.
+.page__content .publication-category {
+    margin: 1.25em 0 0.25em;
+    padding-bottom: 0;
+    border-bottom: 0;
+    font-size: $type-size-3;
+    line-height: 1.25;
+
+    + .paper-box {
+        padding-top: 1em;
+    }
+}
+
 
 .internship-box {
     display: flex;
