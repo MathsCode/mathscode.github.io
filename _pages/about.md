@@ -71,7 +71,7 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 # 📝 Publications(Selected) 
 
 ## Survey
-{:.publication-category}
+{:.publication-category .publication-survey}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv</div><img src='images/hardware_survey.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">

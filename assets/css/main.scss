@@ -94,7 +94,6 @@
 }
 
 .page__content .publication-category {
-    counter-increment: publication-category;
     margin: 1.5em 0 0.5em;
     padding: 0.6em 0.8em 0.55em;
     border: 0;
@@ -109,8 +108,12 @@
     font-size: $type-size-3;
     line-height: 1.25;
 
+    &:not(.publication-survey) {
+        counter-increment: publication-category;
+    }
+
     &::before {
-        content: "Research Direction " counter(publication-category, decimal-leading-zero);
+        content: "Research Direction " counter(publication-category);
         display: block;
         margin-bottom: 0.25em;
         color: mix(#fff, $link-color, 25%);
@@ -118,6 +121,10 @@
         font-weight: bold;
         letter-spacing: 0.12em;
         text-transform: uppercase;
+    }
+
+    &.publication-survey::before {
+        content: none;
     }
 
     + .paper-box {
