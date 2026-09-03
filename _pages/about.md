@@ -25,6 +25,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 MTPMoE was accepted by ASP-DAC 2027! Congrats to 永康. Look forward to meetingy you next January in Tokyo, Japan.
 - *2026.05*: &nbsp;🎉🎉 Be recognized as a Gold Reviewer in ICML 2026.
 - *2025.11*: &nbsp;🎉🎉 [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) and [DistFlow](https://arxiv.org/abs/2507.13833) was accepted by ICML 2026! Congrats to 翰楨 and 治鑫. Look forward to meeting you in July in Seoul, South Korea!
 - *2025.11*: &nbsp;🎉🎉 [SpeContext](https://arxiv.org/abs/2512.00722) was accepted by ASPLOS 2026! <span style="color: red;">The accepted rate is only 10%!</span> Look forward to meeting you next March in Pittsburgh, USA!
@@ -124,6 +125,19 @@ Ke Hong\*, Guohao Dai\*, **Jiaming Xu\***, Qiuli Mao, Xiuhong Li, Jun Liu, Kangd
 MLSys 2024 (non-CCF)
 
 [**HuggingFace Daily #1 Paper**](https://huggingface.co/papers/2311.01282) <strong>|</strong> [**Paper**](https://proceedings.mlsys.org/paper_files/paper/2024/file/5321b1dabcd2be188d796c21b733e8c7-Paper-Conference.pdf) <strong>|</strong> [**Code**](https://github.com/hkeee21/FlashDecodingPlusAE) ![](https://img.shields.io/github/stars/hkeee21/FlashDecodingPlusAE) <strong>|</strong> [**机器之心**](https://mp.weixin.qq.com/s/e9OHATqk88Q9zM3Y5czFQA)  <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:qjMakFHDy7sC'></span></strong> 
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2024</div><img src='images/MTPMoE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+MTPMoE: Exploiting Activation Skewness in Single-GPU MoE Multi-Token Prediction via Parallel Dense-Sparse Computing
+
+Yongkang Zhou\*, Jiaming Xu\*, Jiayi Pan, Hanzhen Wang, Tianlang Zhao and Guohao Dai
+
+ASP-DAC 2026 (non-CCF)
+
 </div>
 </div>
 
