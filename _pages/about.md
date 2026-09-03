@@ -129,14 +129,14 @@ MLSys 2024 (non-CCF)
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">MLSys 2024</div><img src='images/MTPMoE.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASP-DAC 2026</div><img src='images/MTPMoE.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 MTPMoE: Exploiting Activation Skewness in Single-GPU MoE Multi-Token Prediction via Parallel Dense-Sparse Computing
 
 Yongkang Zhou\*, Jiaming Xu\*, Jiayi Pan, Hanzhen Wang, Tianlang Zhao and Guohao Dai
 
-ASP-DAC 2026 (non-CCF)
+ASP-DAC 2026 (CCF-C)
 
 </div>
 </div>
