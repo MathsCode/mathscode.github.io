@@ -46,9 +46,9 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 - Jiaming Xu (许珈铭): Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
 - Yaoxiu Lian (廉瑶秀): Ph.D student in Shanghai Jiao Tong University
 - Yongkang Zhou (周永康): Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
+- Tianlang Zhao (赵天朗): Ph.D student in Shanghai Jiao Tong University
 - Longsheng Zhou (周龙升): Ph.D student in University of Science and Technology of China and Shanghai Innovation Institude
 - Jiayi Pan (潘佳一): master student in Shanghai Jiao Tong University
-- Tianlang Zhao (赵天朗): Ph.D student in Shanghai Jiao Tong University
 - Hanzhen Wang (王翰楨): undergraduate in Shanghai Jiao Tong University
 - Yifan Jiao (焦一帆): undergraduate in Shanghai Jiao Tong University
 - Mingyi Xu (徐铭怿): undergraduate in Shanghai Jiao Tong University
@@ -99,7 +99,7 @@ Zixuan Zhou, Xuefei Ning, Ke Hong, Tianyu Fu, **Jiaming Xu**, Shiyao Li, Yuming 
 </div>
 
 
-## Inference and Training System
+## Inference and Training System (GPU Kernel, Scheduling, RL Training and etc.)
 {:.publication-category}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">IEEE TCAD 2025</div><img src='images/TCAD25.png' alt="sym" width="100%"></div></div>
@@ -148,12 +148,12 @@ ASP-DAC 2026 (CCF-C)
 
 - `DAC 2025` <span style="color: red;">(CCF-A)</span>, [A Cross-model Fusion-aware Framework for Optimizing (gather-matmul-scatter)s Workload](https://dai.sjtu.edu.cn/my_file/pdf/a5764a0c-bde6-46df-b884-92e89c8e9cbf.pdf), Yaoxiu Lian, Zhihong Gou, Yibo Han, Zhongming Yu, **Jiaming Xu**, Sheng Yuan, Zhilin Pei, Xingcheng Zhang, Ningyi Xu and Guohao Dai
 
-- `ASP-DAC 2026`(CCF-C), [BalanceGS: AlgorithmSystem Co-design for Efficient 3D Gaussian Splatting Training on GPU](https://ieeexplore.ieee.org/document/11420502/), Junyi Wu*, **Jiaming Xu\***, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
+- `ASP-DAC 2026`(CCF-C), [BalanceGS: Algorithm System Co-design for Efficient 3D Gaussian Splatting Training on GPU](https://ieeexplore.ieee.org/document/11420502/), Junyi Wu*, **Jiaming Xu\***, Jinhao Li, Yongkang Zhou, Jiayi Pan, Xingyang Li, Guohao Dai
 
 
 
 
-## Efficient AI Algorithm
+## Algorithm ans System Codesign (Speculative Decoding, Pruning, Quantization, etc.)
 {:.publication-category}
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2026</div><img src='images/ASPLOS26.png' alt="sym" width="100%"></div></div>
@@ -239,7 +239,7 @@ ICCAD 2024 (CCF-B)
 
 - `DATE 2025` (CCF-B), [DyLGNN: Efficient LM-GNN Fine-tuning with Dynamic Node Partitioning, Low-degree Sparsity, and Asynchronous Sub-batch](https://dai.sjtu.edu.cn/my_file/pdf/08856e49-c2eb-4421-b5cd-ebd4d436fb5c.pdf), Zhen Yu\*, Jinhao Li\*, **Jiaming Xu**, Shan Huang, Jiancai Ye, Ningyi Xu and Guohao Dai
 
-## Efficient AI Architecture
+## Alogrithm and Architecture Codesign (ASIC, DSA, EDA, PIM and etc.)
 {:.publication-category}
 
 
