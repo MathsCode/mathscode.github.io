@@ -287,12 +287,30 @@ ASP-DAC 2025 (CCF-C)
 
 # 👨‍💻 Internship Experience
 
+<div class='internship-box'><div class='internship-box-image'><div><img src='images/xiaohongshu.png' alt="Xiaohongshu (小红书)" width="100%"></div></div>
+<div class='internship-box-text' markdown="1">
+
+Research Intern @ Dots Infra
+
+Date: September, 2026 - Now, 2026
+
+Supervisor: Dr. Zheng Qu
+
+Research Direction:
+- Speculative Decoding Design and Traning in LLM
+- Speculative Decoding Inference Framework Optimization in GPU Cluster
+
+</div>
+</div>
+
+
+
 <div class='internship-box'><div class='internship-box-image'><div><img src='images/Huawei.png' alt="Huawei (华为)" width="100%"></div></div>
 <div class='internship-box-text' markdown="1">
 
 Research Intern @ Department of Foundation Large Models, 2012 Labs
 
-Date: February, 2026 - Now
+Date: February, 2026 - August, 2026
 
 Supervisor: [Dr. Zhongzhe Hu](https://scholar.google.com/citations?user=-OugdboAAAAJ&hl=zh-CN)
 
