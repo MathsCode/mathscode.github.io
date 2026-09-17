@@ -40,7 +40,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 👥 Team
-Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 14 students, including 5 Ph.D. students, 1 master student, and 9 undergraduates. I am very happy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to 8oin us.</span> You can contact me via email (<span style="color: red;">jiamingxu@sjtu.edu.cn</span>) with your bio. You also contact me through searching 'MathsCode' in social medias(e.g., RedNote（小红书）, Zhihu（知乎）). We welcome students from all over the world and both support online and offline cooperation.
+Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 14 students, including 5 Ph.D. students, 1 master student, and 9 undergraduates. I am very happy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us.</span> You can contact me via email (<span style="color: red;">jiamingxu@sjtu.edu.cn</span>) with your bio. You also contact me through searching 'MathsCode' in social medias(e.g., RedNote（小红书）, Zhihu（知乎）). We welcome students from all over the world and both support online and offline cooperation.
 
 **Now**
 - Jiaming Xu (许珈铭): Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
@@ -287,7 +287,7 @@ ASP-DAC 2025 (CCF-C)
 
 # 👨‍💻 Internship Experience
 
-<div class='internship-box'><div class='internship-box-image'><div><img src='images/xiaohongshu.png' alt="Xiaohongshu (小红书)" width="100%"></div></div>
+<div class='internship-box'><div class='internship-box-image'><div><img src='images/1.png' alt="Xiaohongshu (小红书)" width="100%"></div></div>
 <div class='internship-box-text' markdown="1">
 
 Research Intern @ Dots Infra
@@ -305,7 +305,7 @@ Research Direction:
 
 
 
-<div class='internship-box'><div class='internship-box-image'><div><img src='images/Huawei.png' alt="Huawei (华为)" width="100%"></div></div>
+<div class='internship-box'><div class='internship-box-image'><div><img src='images/2.png' alt="Huawei (华为)" width="100%"></div></div>
 <div class='internship-box-text' markdown="1">
 
 Research Intern @ Department of Foundation Large Models, 2012 Labs
@@ -322,7 +322,7 @@ Research Direction:
 </div>
 
 
-<div class='internship-box'><div class='internship-box-image'><div><img src='images/infinigence.png' alt="Infinigence AI (无问芯穹)" width="100%"></div></div>
+<div class='internship-box'><div class='internship-box-image'><div><img src='images/3.png' alt="Infinigence AI (无问芯穹)" width="100%"></div></div>
 <div class='internship-box-text' markdown="1">
 
 Research Intern @ Department of AI Inference
