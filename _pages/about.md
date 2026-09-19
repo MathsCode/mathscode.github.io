@@ -39,8 +39,8 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 <!-- - *2025.03*: &nbsp;🎉🎉 A paper was accpeted by ISCA 2025. Look forward to meeting you in June in Tokyo! -->
 
 
-# 👥 Team
-Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 14 students, including 5 Ph.D. students, 1 master student, and 9 undergraduates. I am very happy to cooperate with them. <span style="color: red;">I am looking for students, who are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, to join us.</span> You can contact me via email (<span style="color: red;">jiamingxu@sjtu.edu.cn</span>) with your bio. You also contact me through searching 'MathsCode' in social medias(e.g., RedNote（小红书）, Zhihu（知乎）). We welcome students from all over the world and both support online and offline cooperation.
+# 👥 Collaboration
+ <span style="color: red;"> **I have always believed that good ideas are born through discussion and exchange.** So I warmly welcome everyone to reach out for collaboration and discussion. If you are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, we can conduct interesting researches together. </span> You can contact me via email (<span style="color: red;">jiamingxu@sjtu.edu.cn</span>) with your bio. You also contact me through searching 'MathsCode' in social medias(e.g., RedNote（小红书）, Zhihu（知乎）). We welcome students from all over the world and both support online and offline cooperation. I am very happy to collaborate with these friends in our lab.
 
 **Now**
 - Jiaming Xu (许珈铭): Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
@@ -61,9 +61,8 @@ Now I lead the system team (DAI-Sys) in our lab. Our team currently consists of 
 
 **Previous**
 - Siming Chen (陈思铭, 2024.10~2025.6): Ph.D in Shanghai Jiao Tong University
-- Junyi Wu (吴俊逸, 2024.1~2025.3): undergraduate in Shanghai Jiao Tong University
 
-**Collaboration**
+**Collaboration in other labs**
 - [Ke Hong (洪可)](https://nicsefc.ee.tsinghua.edu.cn/people/KeHong): second year Ph.D student supervised by [Prof. Yu Wang (汪玉)](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang) in Tsinghua University
 - [Zhixin Wang (王治鑫)](https://scholar.google.com/citations?user=uoyGVBAAAAAJ&hl=zh-CN): second year Ph.D student supervised by [Prof. Siyuan Feng (冯思远)](https://syfeng.net/) in Zhejiang University and Shanghai Innovation Institude
 - [Yushun Xiang (项裕顺)](https://yushunxiang.github.io/): second year master student supervised by [Prof. Yonglu Li (李永露)](https://scholar.google.com.hk/citations?user=UExAaVgAAAAJ&hl=en) in Shanghai Jiao Tong University
