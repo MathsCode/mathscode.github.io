@@ -25,6 +25,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
+- *2026.09*: &nbsp;🎉🎉 I have joined Dots Infra in xiaohongshu(小红书) as a reseach intern (RedStar).
 - *2026.09*: &nbsp;🎉🎉 MTPMoE was accepted by ASP-DAC 2027! Congrats to 永康. Look forward to meetingy you next January in Tokyo, Japan.
 - *2026.05*: &nbsp;🎉🎉 Be recognized as a Gold Reviewer in ICML 2026.
 - *2025.11*: &nbsp;🎉🎉 [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) and [DistFlow](https://arxiv.org/abs/2507.13833) was accepted by ICML 2026! Congrats to 翰楨 and 治鑫. Look forward to meeting you in July in Seoul, South Korea!
