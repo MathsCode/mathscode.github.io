@@ -41,9 +41,9 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 👥 Collaboration
- <span style="color: red;"> **I have always believed that good ideas are born through discussion and exchange.** So I warmly welcome everyone to reach out for collaboration and discussion. If you are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, we can conduct interesting researches together. </span> You can contact me via email (<span style="color: red;">jiamingxu@sjtu.edu.cn</span>) with your bio. You also contact me through searching 'MathsCode' in social medias(e.g., RedNote（小红书）, Zhihu（知乎）). We welcome students from all over the world and both support online and offline cooperation. I am very happy to collaborate with these friends in our lab.
+ <span style="color: red;"> **I have always believed that good ideas are born through discussion and exchange.** So I warmly welcome everyone to reach out for collaboration and discussion. If you are excited to tackle efficiency problems in AI from an algorithm, modeling, system/hardware perspectives, we can conduct interesting researches together. </span> You can contact me via email (<span style="color: red;">jiamingxu@sjtu.edu.cn</span>) with your bio. You also contact me through searching 'MathsCode' in social medias(e.g., RedNote（小红书）, Zhihu（知乎）). We welcome friends from all over the world and both support online and offline cooperation. I am very happy to collaborate with these friends.
 
-**Now**
+<!-- **Now**
 - Jiaming Xu (许珈铭): Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
 - Yaoxiu Lian (廉瑶秀): Ph.D student in Shanghai Jiao Tong University
 - Yongkang Zhou (周永康): Ph.D student in Shanghai Jiao Tong University and Shanghai Innovation Institude
@@ -57,13 +57,13 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 - Qiming Chen (程淇铭): undergraduate in East China Normal University
 - Jiewen Xiao (肖杰文): undergraduate in Shanghai Jiao Tong University
 - Ziying Wu (吴梓莹): undergraduate in Shanghai Jiao Tong University
-- Shuhuan Li (李姝浣): undergraduate in Shanghai Jiao Tong University
+- Shuhuan Li (李姝浣): undergraduate in Shanghai Jiao Tong University -->
 
 
-**Previous**
-- Siming Chen (陈思铭, 2024.10~2025.6): Ph.D in Shanghai Jiao Tong University
+<!-- **Previous**
+- Siming Chen (陈思铭, 2024.10~2025.6): Ph.D in Shanghai Jiao Tong University -->
 
-**Collaboration in other labs**
+**Collaboration**
 - [Ke Hong (洪可)](https://nicsefc.ee.tsinghua.edu.cn/people/KeHong): second year Ph.D student supervised by [Prof. Yu Wang (汪玉)](https://nicsefc.ee.tsinghua.edu.cn/people/YuWang) in Tsinghua University
 - [Zhixin Wang (王治鑫)](https://scholar.google.com/citations?user=uoyGVBAAAAAJ&hl=zh-CN): second year Ph.D student supervised by [Prof. Siyuan Feng (冯思远)](https://syfeng.net/) in Zhejiang University and Shanghai Innovation Institude
 - [Yushun Xiang (项裕顺)](https://yushunxiang.github.io/): second year master student supervised by [Prof. Yonglu Li (李永露)](https://scholar.google.com.hk/citations?user=UExAaVgAAAAJ&hl=en) in Shanghai Jiao Tong University
