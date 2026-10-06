@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am Jiaming Xu (许珈铭), a third year Ph.D student supervised by [Prof. Guohao Dai (戴国浩)](https://dai.sjtu.edu.cn/pepledetail.html?id=218) in School of Computer Science, Shanghai Jiao Tong University ([上海交通大学计算机学院](https://www.cs.sjtu.edu.cn/)) and Shanghai Innovation Institute ([上海创智学院](https://www.sii.edu.cn/)). Previously, I obtained my Bachelor's degree in 2023 from School of Computer Science and Technology, Xidian University ([西安电子科技大学计算机科学与技术学院](https://cs.xidian.edu.cn/)) supervised by [Prof. Nannan Wang (王楠楠)](https://web.xidian.edu.cn/nnwang/). I was once an intern in Infinigence AI ([无问芯穹](https://cloud.infini-ai.com/platform/ai)) and now still collaborate closely with Xiuhong Li ([李秀红](https://scholar.google.com/citations?user=90eREm0AAAAJ&hl=en)) in Infinigence AI.
+I am Jiaming Xu (许珈铭), a third year Ph.D student supervised by [Prof. Guohao Dai (戴国浩)](https://dai.sjtu.edu.cn/pepledetail.html?id=218) in School of Computer Science, Shanghai Jiao Tong University ([上海交通大学计算机学院](https://www.cs.sjtu.edu.cn/)) and Shanghai Innovation Institute ([上海创智学院](https://www.sii.edu.cn/)). Previously, I obtained my Bachelor's degree in 2023 from School of Computer Science and Technology, Xidian University ([西安电子科技大学计算机科学与技术学院](https://cs.xidian.edu.cn/)) supervised by [Prof. Nannan Wang (王楠楠)](https://web.xidian.edu.cn/nnwang/).
 
 My research focuses on efficient machine learning systems (MLSys), primarily the effcient AI (e.g., LLM, sparse computing, embodied AI, multimodal model) inference through algorithm (e.g., quantization, pruning, speculative decoding) and system (kernel design, memory management, dataflow design, heterogeneous computing) co-deisgn. I have published 10+ papers <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a> at the top international conferences and journals such as IEEE TCAD, ASPLOS, ISCA, AAAI, MLSys, DAC.
 
@@ -25,7 +25,6 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
-- *2026.09*: &nbsp;🎉🎉 I have joined Dots Infra in xiaohongshu(小红书) as a reseach intern (RedStar).
 - *2026.09*: &nbsp;🎉🎉 MTPMoE was accepted by ASP-DAC 2027! Congrats to 永康. Look forward to meetingy you next January in Tokyo, Japan.
 - *2026.05*: &nbsp;🎉🎉 Be recognized as a Gold Reviewer in ICML 2026.
 - *2025.11*: &nbsp;🎉🎉 [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) and [DistFlow](https://arxiv.org/abs/2507.13833) was accepted by ICML 2026! Congrats to 翰楨 and 治鑫. Look forward to meeting you in July in Seoul, South Korea!
@@ -287,7 +286,7 @@ ASP-DAC 2025 (CCF-C)
 
 # 👨‍💻 Internship Experience
 
-<div class='internship-box'><div class='internship-box-image'><div><img src='images/1.png' alt="Xiaohongshu (小红书)" width="100%"></div></div>
+<!-- <div class='internship-box'><div class='internship-box-image'><div><img src='images/1.png' alt="Xiaohongshu (小红书)" width="100%"></div></div>
 <div class='internship-box-text' markdown="1">
 
 Research Intern @ Dots Infra
@@ -301,7 +300,7 @@ Research Direction:
 - Speculative Decoding Inference Framework Optimization in GPU Cluster
 
 </div>
-</div>
+</div> -->
 
 
 
