@@ -25,6 +25,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎉🎉 We release [DLite](https://arxiv.org/pdf/2610.23787), a new draft model architecture in speculative decoding tailored for Agentic AI. We opensource the [models weight](https://huggingface.co/collections/SJTU-DAI-Sys/dlite), [inference code](https://github.com/SJTU-DAI-Sys/DLite) and training framework [LiteSpec](https://github.com/SJTU-DAI-Sys/LiteSpec).
 - *2026.09*: &nbsp;🎉🎉 MTPMoE was accepted by ASP-DAC 2027! Congrats to 永康. Look forward to meetingy you next January in Tokyo, Japan.
 - *2026.05*: &nbsp;🎉🎉 Be recognized as a Gold Reviewer in ICML 2026.
 - *2025.11*: &nbsp;🎉🎉 [SpecPrune-VLA](https://arxiv.org/abs/2509.05614) and [DistFlow](https://arxiv.org/abs/2507.13833) was accepted by ICML 2026! Congrats to 翰楨 and 治鑫. Look forward to meeting you in July in Seoul, South Korea!
@@ -154,6 +155,20 @@ ASP-DAC 2026 (CCF-C)
 
 ## Algorithm ans System Codesign (Speculative Decoding, Pruning, Quantization, etc.)
 {:.publication-category}
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arxiv</div><video autoplay muted loop playsinline preload="metadata" aria-label="DLite demo" style="width:100%; height:auto; display:block;"><source src="{{ '/images/dlite-demo.mp4' | relative_url }}" type="video/mp4"></video></div></div>
+<div class='paper-box-text' markdown="1">
+
+[DLite: History-free Speculative Decoding for Agentic AI](https://arxiv.org/pdf/2610.23787)
+
+**Jiaming Xu\***, Hanzhen Wang\*, Tianlang Zhao, Jiewen Xiao, Chengze Yuan, Jiayi Pan, Yongkang Zhou, Jiancai Ye, Yu Wang, Guohao Dai
+
+
+[**Paper**](https://arxiv.org/pdf/2610.23787) <strong>|</strong> [**Inference**](https://github.com/SJTU-DAI-Sys/DLite) ![](https://img.shields.io/github/stars/SJTU-DAI-Sys/DLite) <strong>|</strong> [**Train**](https://github.com/SJTU-DAI-Sys/LiteSpec) ![](https://img.shields.io/github/stars/SJTU-DAI-Sys/LiteSpec) <strong>|</strong> [**小红书**](xiaohongshu.com/discovery/item/6ad5aa93000000002f038703?app_platform=android&ignoreEngage=true&app_version=9.50.0&share_from_user_hidden=true&xsec_source=app_share&type=normal&xsec_token=CBy1VRjCNxWYWLFsjpDU99fGL8CE25oUgrA4FR1G0-xzc%3D&author_share=1&xhsshare=WeixinSession&shareRedId=N0o1OTM5PEs2NzUyOTgwNjc0OTg3Rz5N&apptime=1792638029&share_id=1140317cd2854d3ca58a29804d05a327&share_channel=wechat&track_code=AADxhWq0vQo) <strong><span class='show_paper_citations' data='ovQFaicAAAAJ:Wp0gIr-vW9MC'></span></strong> 
+</div>
+</div>
+
+
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ASPLOS 2026</div><img src='images/ASPLOS26.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
