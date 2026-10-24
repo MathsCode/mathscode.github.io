@@ -25,6 +25,7 @@ My research focuses on efficient machine learning systems (MLSys), primarily the
 
 
 # 🔥 News
+- *2026.10*: &nbsp;🎤🎤 A invited talk (投机策略助力大模型高效推理) was given in Shenzhen, China. Thanks for the invitation of CCF-HPC 2026. This is my third talk in CCF-HPC.
 - *2026.10*: &nbsp;🎉🎉 We release [DLite](https://arxiv.org/pdf/2610.23787), a new draft model architecture in speculative decoding tailored for Agentic AI. We opensource the [models weight](https://huggingface.co/collections/SJTU-DAI-Sys/dlite), [inference code](https://github.com/SJTU-DAI-Sys/DLite) and training framework [LiteSpec](https://github.com/SJTU-DAI-Sys/LiteSpec).
 - *2026.09*: &nbsp;🎉🎉 MTPMoE was accepted by ASP-DAC 2027! Congrats to 永康. Look forward to meetingy you next January in Tokyo, Japan.
 - *2026.05*: &nbsp;🎉🎉 Be recognized as a Gold Reviewer in ICML 2026.
@@ -380,6 +381,7 @@ Research Direction:
 - *2019.09 - 2023.06*, School of Computer Science and Technology, Xidian University
 
 # 💬 Presentation
+- *2026.10*, **\[Invited Talk\]** Speculation enables efficient LLM inference, CCF-HPC 2026 @Shenzhen, China
 - *2026.01*, **\[Oral Presentation\]** SpAct-NDP: Efficient LLM Inference via Sparse Activation on NDP-GPU Heterogeneous Architecture, ASP-DAC 2026 @Hongkong, China
 - *2025.08*, **\[Invited Talk\]** Efficient LLM inference via hardware-software codesign, CCF-HPC 2025 @Ordos, China
 - *2025.06*, **\[Oral Presentation\]** Accelerating Large Language Model Inference with Speculative Early Exiting, ISCA 2025 @Tokyo, Japan
